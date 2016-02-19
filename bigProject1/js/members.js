@@ -32,8 +32,6 @@ app.controller('membersController', ['$http', function($http) {
 	
 	this.checkState = function(member){
 		
-		console.log("something");
-		
 		var state = member.state;	
 		if(state == this.lastStateChecked){
 			return false;
@@ -46,10 +44,10 @@ app.controller('membersController', ['$http', function($http) {
 	}
 	
 	this.toggleParty = function(party){
-		console.log(this.indepActive);
+		
 		if(party == 'Republican'){
 			this.repubActive = !this.repubActive;
-			//console.log(this.repubActive);
+			
 			if(!this.repubActive){
 				$('#repubIcon').css({'color': 'rgba(255,255,255,0.0)'});
 			}
@@ -59,7 +57,7 @@ app.controller('membersController', ['$http', function($http) {
 		}
 		else if(party == 'Democrat'){
 			this.democActive = !this.democActive;
-			//console.log(this.democActive);
+			
 			if(!this.democActive){
 				$('#democIcon').css({'color': 'rgba(255,255,255,0.0)'});
 			}
@@ -68,10 +66,9 @@ app.controller('membersController', ['$http', function($http) {
 			}
 		}
 		else{
-			console.log("indpendent is right now " + this.indepActive);
+			
 			this.indepActive = !this.indepActive;
-			console.log("now its " + this.indepActive);
-			//console.log(this.democActive);
+
 			if(!this.indepActive){
 				$('#indepIcon').css({'color': 'rgba(255,255,255,0.0)'});
 			}
@@ -86,23 +83,21 @@ app.controller('membersController', ['$http', function($http) {
 	
 	this.currentParty = function(member){
 		var party = member.party;
-		//console.log("The current member is : " + member.name + " their party is: " + party);
-		
 		
 		if(party == 'Republican' && this.repubActive){
-			//console.log("returning true to republican ");
+			
 			return true;
 		}
 		else if(party == 'Democrat' && this.democActive){
-			//console.log("returning true to Democrat ");
+			
 			return true;
 		}
 		else if(party == 'Independent' && this.indepActive){
-			//console.log("returning true to Democrat ");
+			
 			return true;
 		}
 		else{
-			//console.log("returning false");
+			
 			return false;
 		}
 		
@@ -117,7 +112,7 @@ app.controller('membersController', ['$http', function($http) {
 		}
 		
 		else{
-			//this.lastStateChecked = state;
+			
 			return 'first'+state;
 		}
 		
@@ -129,16 +124,18 @@ app.controller('membersController', ['$http', function($http) {
 		}
 		
 		else{
-			//this.lastStateChecked = state;
+			
 			return 'senatefirst'+state;
 		}
 		
 	}
+	
+	//json being loaded contains info about all senators and their contestants
+	//I included all the photos for the candidates and their bios
+	//You told me that would be okay in substitution of adding their platform positions
 
     $http.get('/bigProject1/js/congress.json')
         .success(function(data) {
-            console.log(data);
-            console.log(this);
             _this.members = data;
         })
         .error(function(msg) {
@@ -197,9 +194,7 @@ app.controller('membersController', ['$http', function($http) {
 			//console.log("running");
 			return "Running";
 		}
-		//cant do else because it might pick up on undefined values
 		else if(!member.running){
-			//console.log(" not running");
 			return "Not Running";
 		}
 	}
@@ -218,19 +213,5 @@ app.controller('membersController', ['$http', function($http) {
 			return 'otherBorder';
 		}
 	}
-	
-	
-
-    /*this.isBlueSteel = function(player) {
-        return (player.minutes < 15);
-    }
-
-    this.isEveryone = function() {
-        return true;
-    }
-
-    this.isStarter = function(player) {
-        return (player.minutes > 100);
-    }*/
 
 }]);

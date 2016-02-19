@@ -3,9 +3,7 @@
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Neuton:400,800,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
-
-	<script type="text/javascript" src="js/angular.min.js"></script>
-	<!--script type="text/javascript" src="js/angular.js"></script-->
+	<script type="text/javascript" src="js/angular.js"></script>
 	<script type="text/javascript" src="js/app.js"></script>
 	<script type="text/javascript" src="js/members.js"></script>
 	
@@ -23,10 +21,6 @@
 	
 	
 	<link rel="stylesheet" href="css/style.css">
-	
-	
-	
-	
 	
 	
 	
@@ -82,18 +76,6 @@
 					  
 					</ul>
 				</li>
-				<!--<li>
-					<div id="statesDiv">
-					
-					<a href="#" class="states col-xs-4 col-sm-3 col-md-2" ng-repeat="member in membersCtrl.members" ng-show="membersCtrl.checkState(member)" ng-class="membersCtrl.setStateClass(member)" ng-click="base.sortBy('state')">
-						{{member.state}}
-					</a>
-							
-						
-						
-					
-				</div>
-				</li>-->
 			  </ul>
 			  
 			  <ul class="nav navbar-nav navbar-right">
@@ -103,43 +85,10 @@
 					
 				</div>
 				</form>
-			  </ul>
-			  
-			  
-			  
-			  
+			  </ul>  
 			</div>
 		  </div>
 		</nav>
-		
-		
-		
-	
-		<!--<div id="sortDiv" class="col-md-12">-->
-				<!--<form>-->
-					<!--<a href="#" class="col-md-1 col-sm-1 col-xs-1 topButton" type="button" ng-click="base.sortBy('name')">Sort by Name</a>
-					
-					<a href="#" class="col-md-1 col-sm-1 col-xs-1 topButton" type="button" ng-click="base.sortBy('state')">Sort by State</a>-->
-					
-					
-					<!--<button type="button" ng-click="base.sortBy('party')">Sort by Party</button>-->
-					
-					<!--<div class="col-md-1 col-sm-1 col-xs-1">
-						<a href="#" ng-click="membersCtrl.toggleParty('Republican')" class="iconContainer"><img class="politicsIcon" id="repubIcon" src="img/republican.png"/></a>
-					</div>
-					<div class="col-md-1 col-sm-1 col-xs-1">
-						<a href="#" ng-click="membersCtrl.toggleParty('Democrat')" class="iconContainer" ><img class="politicsIcon" id="democIcon" src="img/democrat.png"/></a>
-					</div>-->
-					<!--<button type="button" ng-click="base.newSort('last')">Sort by Last</button>
-					<button type="button" ng-click="base.newSort('position')">Sort by Position</button>
-					<button type="button" ng-click="base.newSort('games')">Sort by Games</button>-->
-					<!--Search:<input type="text" name="search" id="searcher" value="">-->
-					<!--<input ng-model="searchText">-->
-					<!--<input type="submit">-->
-					
-				<!--</form>-->
-		<!--</div>-->
-		
 		
 		
 		<div id="topImageContainerThing">
@@ -150,22 +99,20 @@
 					<img id="senateLogo" src="img/senateLogo.jpg"/><br>
 					<img id="questionMark" src="img/questionMarkBlue.png"/>
 					<p id="description" style="display:none;">
-						This is a website showcasing all the current Senators of the United States. If a senator's seat is up for election, clicking them will pull down the candidates. You can search for anything you want by using the search bar in the top right corner. If you would like to reorder the candidates, you can do so using the buttons on the top left.
+						This is a website showcasing all the current Senators of the United States. If a senator's seat is up for election, clicking them will pull down the candidates.
+						Clciking the candidates will pull up a short biography about them.
+						
+						<br>
+						<br>
+
+						You can search for anything you want by using the search bar in the top right corner. If you would like to reorder the candidates, you can do so using the buttons on the top left.
+						
+						<br>
+						<br>
 
 						Clicking a "Sort by" button will sort the senators by your specified guideline. "Parties" will make only the selected parties show up. "State" will scroll down to the first candidate of the state you select. 
 					</p>
 				</div>
-				
-				<!--<div id="statesDiv">
-					
-					<a href="#" class="states col-xs-4 col-sm-3 col-md-2" ng-repeat="member in membersCtrl.members" ng-show="membersCtrl.checkState(member)" ng-class="membersCtrl.setStateClass(member)" ng-click="base.sortBy('state')">
-						{{member.state}}
-					</a>
-							
-						
-						
-					
-				</div>-->
 				
 			</div>
 		</div>
@@ -181,8 +128,6 @@
 				<div class="congressContainer col-md-12 col-sm-12" ng-repeat="member in membersCtrl.members | filter: searchText | orderBy: base.current: base.reverse" ng-show="membersCtrl.currentParty(member)" ng-class="[membersCtrl.setStateClassForMemebers(member) , membersCtrl.contestedClass(member)]">
 					<div class="currentCongressContainer">
 					
-					
-				
 						<div class="basicInfoContainer">
 							<div class="imgContainer">
 								<img class="congressPic"  ng-src="{{member.photo}}"/>
@@ -198,6 +143,7 @@
 									{{member.party}}
 								</p>
 								<p>
+								<!--getting the correct color checkBoxes-->
 									<p class="contested senateBasicInfo" href="#">
 										<img ng-show="{{member.contested}}" ng-src="{{membersCtrl.getCorrectCheckedBox(member)}}"/>
 										<img ng-show="{{!member.contested}}" ng-src="{{membersCtrl.getCorrectUncheckedBox(member)}}">
@@ -207,7 +153,6 @@
 										<img ng-show="{{!member.running}}" ng-src="{{membersCtrl.getCorrectUncheckedBox(member)}}">
 										{{membersCtrl.isRunning(member)}}
 									</p>
-									<!--<a ng-show="{{member.contested}}" class="contestedLink senateBasicInfo" href="#">Candidates</a>-->
 									
 								</p>
 							</div>
@@ -216,8 +161,6 @@
 							{{member.bio}}
 						</div>
 						
-						
-					
 					</div>
 					<div class="contestants" style="display:none;">
 						<div ng-hide="membersCtrl.checkIfCandidates(member)"><p>There are no other candidates declared.</p></div>
@@ -233,9 +176,6 @@
 								<p>
 									{{candidate.party}}
 								</p>
-								<!--<a href="#" class="bioButton">
-									bio
-								</a>-->
 							</div>		
 							
 							
@@ -260,7 +200,7 @@
 				<a></a>
 			</div>
 		</div>
-		<a href="#!" id="arrowTag"><img id="arrow" src="img/upArrowGrey.png"/></a>
+		<a href="#" id="arrowTag"><img id="arrow" src="img/upArrowGrey.png"/></a>
 				
 	</div>
 </body>

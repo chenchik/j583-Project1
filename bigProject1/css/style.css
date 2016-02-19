@@ -92,6 +92,11 @@ a.contestedLink:hover{
 	
 }
 
+.candidateFullBox:hover {
+	background-color: #f3f3f3;
+	cursor:pointer;
+}
+
 .contestantsBio {
     width: 66%;
     overflow: auto;
@@ -291,7 +296,7 @@ a:hover{
 		
 	}
 	.currentCongressContainer{
-		/*height: 300px;*/
+		/*height: auto;*/
 		min-height: 320px;
 		margin-top: 30px;
 	}
@@ -322,7 +327,7 @@ a:hover{
 @media only screen and (max-width: 500px){
 	.currentCongressContainer{
 		display: block;
-		height:350px;
+		height:auto;
 		margin-bottom: 5px;
 		margin-top: 30px;
 	}
@@ -421,14 +426,18 @@ p.candidatePhotoBox {
 .dropdown-menu>li>a:hover{
 	color:white;
 }
-.currentCongressContainer:hover {
+/*.currentCongressContainer:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+}*/
+.isContested .currentCongressContainer:hover  {
     background-color: #f3f3f3;
     cursor: pointer;
 }
-.candidateFullBox:hover {
-    background-color: #f3f3f3;
-    cursor: pointer;
-}
+/*.isNotContested:hover {
+    background-color: transparent !important;
+    cursor: initial !important;
+}*/
 img#questionMark {
     width: 30px;
     margin: 15px;
