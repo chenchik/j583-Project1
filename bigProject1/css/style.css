@@ -1,0 +1,457 @@
+.currentCongressContainer {
+	/*border: 1px solid grey;*/
+	border-radius: 5px; 
+	padding: 10px;
+	display: inline-flex;
+	height: 200px;
+	transition: background-color 0.3s;
+	webkit-transition: background-color 0.3s;
+	
+	
+}
+.basicInfoContainer {
+    width: 50%;
+	display:inline-flex;
+}
+.bioContainer {
+    width: 75%;
+	overflow:auto;
+}
+.congressPic{
+	width: 100%;
+    /*padding-right: 10%;
+    padding-bottom: 10%;*/
+	height:180px;
+	object-fit:cover;
+	border-radius: 0px;
+	
+	
+}
+congressContainer{
+	
+	
+}
+.imgContainer{
+	width:40%;
+	
+}
+.labelsContainer{
+	width:60%;
+	padding-left: 15px;
+	
+}
+img.candidatePhoto {
+    width: 100px;
+	height: 100px;
+    border-radius: 99px;
+    object-fit: cover;
+	
+}
+.contestantBoxes {
+    padding-top: 10px;
+	/*padding-bottom: 10px;*/
+    padding-bottom: 10px;
+    font-family: 'Varela Round', sans-serif;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+	/*border-top: 1px solid #ccc;*/
+}
+
+a.contestedLink {
+    /*background: #86c5da;
+    */
+	background:#bbbbbb;
+    border-radius: 2px;
+    color: white;
+    padding: 5px;
+	transition: background 0.5s;
+	webkit-transition: background 0.5s;
+}
+a.contestedLink:hover{
+	background: #999999;
+}
+
+.contested img{
+	width:20%;
+}
+
+.names{
+	font-weight:700;
+	font-size: 20px;
+	
+}
+
+.candidateFullBox {
+    height: 250px;
+	display:inline-flex;
+	z-index: 1000000;
+	border-radius: 3px;
+	transition: background-color 0.5s;
+	webkit-transition: background-color 0.5s;
+	
+}
+
+.contestantsBio {
+    width: 66%;
+    overflow: auto;
+    padding: 10px;
+	margin-bottom: 10px;
+}
+.contestants{
+	display:inline-block;
+	border-top: 1px solid #ccc;
+	margin-top: 20px;
+	padding-top: 20px;
+	border-bottom: 1px solid #ccc;
+	width:100%;
+	
+}
+
+a.bioButton {
+    /*background-color: #2777C6;*/
+	background-color: #bbbbbb;
+	transition: background-color 0.5s;
+	webkit-transition: background-color 0.5s;
+    padding: 5px;
+    color: white;
+    border-radius: 2px;
+}
+a.bioButton:hover{
+	background-color: #999999;
+}
+
+
+.congressContainer {
+    padding-top: 10px;
+	transition: background-color 0.3s;
+	webkit-transition: background-color 0.3s;
+}
+
+div#sortDiv {
+    padding: 10px;
+}
+.politicsIcon{
+	/*width: 100%;*/
+	
+}
+.topButton {
+    background-color: #86c5da;
+    color: white;
+    padding: 6px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.topButton:hover {
+    color: white;
+}
+
+.header {
+    text-align: center;
+	margin:30px;
+}
+
+#senateLogo{
+	width:20%;
+	margin-top: 40px;
+}
+
+#statesDiv{
+	
+	/*background-color:#22427B;*/
+	
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2777c6+100 */
+
+
+	background-color: #1e5799;
+	
+	/*margin-bottom: 30px;
+	padding-left: 0px !important;
+    padding-right: 0px !important;
+	display: inline-block;*/
+	    height: 200px;
+    overflow: auto;
+	
+	
+	
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	background-image:none;
+	background-color: #86c5da;
+	
+	
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	transition: background-color 0.5s;
+	webkit-transition: background-color 0.5s;
+	
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    background-color: #86c5da;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover{
+	background-image:none;
+	background-color:#86c5da;
+	
+}
+
+
+#statesDiv *{
+	color:white;
+}
+
+.states {
+    /*width: 20%;*/
+    display: inline-block;
+    padding: 25px;   
+    text-align: center;
+	border-top:1px solid white;
+    transition: background-color 0.3s;
+	-webkit-transition: background-color 0.3s;
+}
+a,
+a label {
+    cursor: pointer;
+}
+.states:hover {
+    background-color: #86c5da;
+}
+a:hover{
+	text-decoration:none;
+}
+
+.navbar-inverse{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2777c6+100 */
+
+	border: 0px solid white;
+	background-image:none;
+	background-color:#1e5799;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+    border-right: 1px solid white;
+	
+	
+}
+.senateBasicInfo {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.theirState {
+    font-size: 20px;
+}
+
+.contested > img {
+    width: 20px;
+}
+
+@media only screen and (min-width: 1200px) {
+	.labelsContainer{
+		margin-left: 15px;
+		border-left: 1px solid #ccc;
+	}
+	
+	.congressPic{
+		border-radius:100px;
+	}
+	
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .bioContainer {
+		width: 50%;
+	}
+	.labelsContainer{
+		margin-left: 15px;
+		border-left: 1px solid #ccc;
+	}
+	.congressPic{
+		border-radius:100px;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 500px) {
+	img.candidatePhoto {
+		width: 100px;
+		height: 100px !important;
+	}
+	.candidateFullBox{
+		
+		height: 220px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	
+    .bioContainer {
+		    padding-left: 40px;
+		
+	}
+	.currentCongressContainer{
+		/*height: 300px;*/
+		min-height: 320px;
+		margin-top: 30px;
+	}
+	.basicInfoContainer{
+		display:block;
+		text-align:center;
+	}
+	.congressPic {
+		height: 130px;
+		width: 130px;
+		border-radius: 80px;
+	}
+	.labelsContainer {
+		margin-top: 15px;
+		padding-top: 15px;
+		border-top: 1px solid #ccc;
+		width:100%;
+	}
+	.imgContainer{
+		width:100%;
+		
+	}
+	.contestants{
+		margin-top: 20px;
+		padding-top: 20px;
+	}
+}
+@media only screen and (max-width: 500px){
+	.currentCongressContainer{
+		display: block;
+		height:350px;
+		margin-bottom: 5px;
+		margin-top: 30px;
+	}
+	.basicInfoContainer {
+		width: 100%;
+		display: inline-flex;
+	}
+	.imgContainer {
+    width: 60%;
+		text-align:center;
+	
+	}
+	.labelsContainer{
+		margin-top: 0px;
+		padding-top: 0px;
+		border-top: 0px solid #ccc;
+		border-left: 1px solid #ccc;
+		margin-left: 15px;
+	}
+	.bioContainer {
+		padding-left: 0px;
+		margin-top: 20px;
+		width: 100%;
+		height: 160px;
+		text-align: center;
+	}
+	img.congressPic {
+		height: 100px;
+		width: 100px;
+		border-radius: 50px;
+		margin-top: 10px;
+	}
+	.congressContainer{
+		margin-top:0px;
+	}
+	.contestants{
+		margin-top: 50px;
+		padding-top: 20px;
+	}
+	.contestantsBioWords{
+		padding-left:10px;
+	}
+	.candidateFullBox{
+		margin-top:15px;
+		height: 220px;
+	}
+	
+}
+
+
+img#arrow {
+    position: fixed;
+    left: 10px;
+    bottom: 0px;
+    width: 5%;
+}
+
+@media only screen and (min-width: 1200px) {
+	.labelsContainer{
+		margin-left: 15px;
+		border-left: 1ps solid #ccc;
+	}
+	
+}
+
+.republicanBorder{
+	border-color: rgba(232,69,69,0.5) !important;
+}
+.democraticBorder{
+	border-color: rgba(67, 113, 232, 0.5) !important;
+}
+.greenPartyBorder{
+	border-color: rgba(51, 173, 45, 0.5) !important;
+}
+.otherBorder{
+	border-color: #ccc !important;
+}
+nav.navbar {
+    z-index: 10000000000;
+}
+p.candidatePhotoBox {
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+#partyUl{
+	background-color: #1e5799;
+	color:white;
+}
+.dropdown-menu>li>a{
+	color:white;
+	border-top: 1px solid white;
+	transition: background-color 0.3s;
+	webkit-transition: background-color 0.3s;
+}
+.dropdown-menu>li>a:hover{
+	color:white;
+}
+.currentCongressContainer:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+}
+.candidateFullBox:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+}
+img#questionMark {
+    width: 30px;
+    margin: 15px;
+    margin-bottom: 0px;
+    border-radius: 30px;
+}
+
+p#description {
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+    margin: 20px;
+    font-family: 'Varela Round', sans-serif;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#questionMark:hover{
+	cursor: pointer;
+}
+.input-group{
+	padding-left: 10px;
+}
+*{
+	font-family: 'Varela Round', sans-serif;
+}

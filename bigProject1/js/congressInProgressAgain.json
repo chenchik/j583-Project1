@@ -1,0 +1,2181 @@
+[
+	{
+		"state" : "Alabama",
+		"name" : "Jeff Sessions",
+		"bio" : "Jeff Sessions was born in Selma, Alabama on December 24, 1946, and grew up in Hybart (pronounced Hib-ert), the son of a country store owner. Growing up in the country, Sessions was instilled with the core values – honesty, hard work, belief in God and parental respect – that define him today. In 1964, he Jeff Sessions became an Eagle Scout and has received the Distinguished Eagle Scout Award. After attending school in nearby Camden, Sessions worked his way through Huntingdon College in Montgomery, graduating with a Bachelor of Arts degree in 1969. He received a Juris Doctorate degree from the University of Alabama in 1973.Jeff Sessions, the young man. Sessions served in the United States Army Reserve from 1973 to1986 ultimately attaining the rank of Captain. He still considers that period to be one of the most rewarding chapters of his life.",
+		"photo":"/bigProject1/img/jeffsessions.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{"state" : "Alabama",
+		"name" : "Richard Shelby",
+		"bio" : "Senator Richard Shelby was first elected to the Senate in 1986.He is the Chairman of the Banking, Housing, and Urban Affairs Committee. He also serves on the Senate Appropriations Committee and the Committee on Rules and Administration. Senator Shelby believes that a smaller government is more effective and has long opposed government bailouts.  He is a stalwart supporter of Second Amendment rights and has worked tirelessly to bring jobs and economic growth to Alabama.  He has introduced a flat tax in every Congress since his election to the U.S. Senate, as well as a Balanced Budget amendment to the Constitution.",
+		"photo" : "/bigProject1/img/richardshelby.jpg",
+		"party" : "Republican",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Charles Nana",
+				"bio" : "Charles Nana has dedicated his career to making things better for the less privileged in his communities as well as companies he associated with. Though he has become a recognized name in the business transformation and process improvement industry, Charles has built a reputation as a tireless fighter for the most vulnerable members of his communities. Charles was born in Cameroon, West Africa to parents Nanda, a home maker and Tchienkou, a printing press technician. He is the 1st of 14 children and also the very first to obtain a college degree in his family. He migrated to the United States with only $428 in his pocket, but today, those $428 have translated into hundreds of thousands of dollars in real estate and heavy machinery investments as well as a decent education: Bachelor’s degree in Mechanical Engineering from Howard University, Masters degree in Biomedical Engineering from Catholic University of America and an International MBA degree in Analytical Finance and Strategic Management from the University of Chicago, Booth School of Business. Charles is married to Florence and they have three sons, Nanda, Wanci and Kedy.",
+				"photo" : "/bigProject1/img/charlesnana.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ron Crumpton",
+				"bio" : "Ron Crumpton is a 47-year-old father of one. After becoming disabled and unable to continue his career in landscaping and irrigation services, Ron entered college at Jeff State Junior College and continued to the University of Alabama at Birmingham in order to obtain the job skills necessary to remain a productive member of society.",
+				"photo" : "/bigProject1/img/roncrumpton.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "John Martin",
+				"bio" : "I will work diligently to support our curent laws, establish an efficient budget, and move the power base back to Alabama.",
+				"photo" : "/bigProject1/img/johnmartin.jpeg",
+				"party" : "Republican"	
+			},
+			{
+				"name" : "Shadrack McGill",
+				"bio" : "My faith is the driving force in my life, and I am seeking this seat because I feel the Lord calling me to do so. I refuse to sit idly by and see the values that were foundational to this country and are at the core of the faith shared by so many Alabamians assaulted and undermined in Washington. As Senator, I will fight for religious liberty, the Right to Life, traditional marriage, and work to return this country to the God who has blessed us throughout our history. For the sake of our children and grandchildren, this kind of bold leadership is needed if we hope to leave them a country we could recognize.",
+				"photo" : "/bigProject1/img/shadrackmcgill.jpg",
+				"party" : "Republican" 
+			},
+			{
+				"name" : "Jonathan McConnell",
+				"bio" : "He's a veteran of the Iraq war, a small business owner, a proponent of term limits and a Washington outsider who disdains career politicians, as he calls one of his Republican primary opponents ",
+				"photo" : "/bigProject1/img/jonathanmcconnell.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Marcus Bowman",
+				"bio" : "Marcus Bowman has a Masters degree in Public Policy (MPP), educated in the U.S. Constitution with a strict constructionist perspective (limited judicial interpretation). He gained specific knowledge of the federal legislative process in school and as a political analyst.",
+				"photo" : "/bigProject1/img/marcusbowman.jpg",
+				"party" : "Republican"
+			}
+
+
+		]
+
+	},
+	{
+		"state" : "Alaska",
+		"name" : "Daniel Sullivan",
+		"bio" : "Dan Sullivan was sworn in as Alaska’s eighth United States Senator on January 6, 2015.  Sullivan serves on four Senate committees vital to Alaska: the Commerce, Science and Transportation Committee; the Armed Services Committee; the Environment and Public Works Committee; and the Veterans' Affairs Committee.",
+		"photo" : "/bigProject1/img/danielsullivan.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "Alaska",
+		"name" : "Lisa Murkowski",
+		"bio" : "Senator Lisa Murkowski is the first Alaskan-born Senator and only the sixth United States Senator to serve the state. The state’s senior Senator, Lisa Murkowski is a third-generation Alaskan, born in Ketchikan and raised in towns across the state: Wrangell, Juneau, Fairbanks and Anchorage. Since joining the Senate in 2002, Senator Murkowski has been a strong advocate for Alaska on the important issues facing the state, including energy, health care, education, military/veterans’ affairs and infrastructure development.",
+		"photo" : "/bigProject1/img/lisamurkowski.jpg",
+		"party" : "Republican",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "Arizona",
+		"name" : "Jeff Flake",
+		"bio" : "Senator Jeff Flake is a fifth-generation Arizonan who was raised on a cattle ranch in Snowflake, Arizona. Snowflake was named in part for Senator Flake's great-great grandfather. Prior to his election to the U.S. Senate, Jeff served in the U.S. House of Representatives from 2001-2013 representing the East Valley. As a member of the U.S. Senate, Jeff sits on the Judiciary Committee, the Energy and Natural Resources Committee, and Foreign Relations Committee where he also serves as chairman of Subcommittee on African Affairs. After serving a Mormon mission in southern Africa, Jeff graduated from Brigham Young University, where he received a B.A. in International Relations and an M.A. in Political Science.",
+		"photo" : "/bigProject1/img/jeffflake.jpg",
+		"party" : "Republican",
+		"contested" :false ,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "Arizona",
+		"name" : "John McCain",
+		"bio" : "Senator John McCain has spent his lifetime in unwavering service to America, both in the U.S. Navy and representing the people of Arizona in the U.S. Congress. He has led the fight to strengthen America's national security and our armed forces, eliminate wasteful government spending, and reform government to make it more responsive to the American people.",
+		"photo" : "/bigProject1/img/johnmccain.jpg",
+		"party" : "Republican",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Ann Kirkpatrick",
+				"bio" : "Arizona born and raised, Ann Kirkpatrick resides in Flagstaff, and her earliest roots are found in Eastern Arizona on the White Mountain Apache Nation. Her father ran a general store and her mother was a schoolteacher. Ann graduated from Blue Ridge High School in the White Mountains and then worked her way through the University of Arizona, earning a bachelor's degree and then a law degree there.",
+				"photo" : "/bigProject1/img/annkirkpatrick.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Alex Meluskey",
+				"bio" : "I am running for the United States Senate here in Arizona because as a citizen I am gravely concerned with the lack of direction, lack of principles and lack of citizen representation in our country.  I am in a unique position which enables me to shift my business interests into the hands of others focusing my energies on giving others like me a voice I feel we do not have.  I see too few leaders in Washington standing up for the people. The people deserve leaders who will be direct with where they stand on issues and what they plan to do. After that, the leaders must be accountable to their promises. I will be direct, I will be honest and I will be accountable to the people for my promises.",
+				"photo" : "/bigProject1/img/alexmeluskey.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Kelli Ward",
+				"bio" : "It has been my life’s honor to represent the people of Arizona’s Fifth Legislative District as their senator. I understand and truly appreciate the trust and support they have given me to do what is right. But when I look at what’s happening in our federal government, I know Arizonans need new representation in the U.S. Senate, and that’s why I’m running.",
+				"photo" : "/bigProject1/img/kelliward.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "J.L. Mealer",
+				"bio":"John Lewis Mealer is an Arizona born and raised life-long tinkerer and mechanic turned engineer and developer. After spending 25 years researching Arizona for clean industrial development and having party-politics shut him down time after time, John opted to run for Governor and repair what the parties have destroyed. Now that Governor Ducey has taken his place in the state house, JL is aiming for US Senate in 2016. It’s long past time that John McCain retires and Mealer feels he is best suited to take the seat. ",
+				"photo" : "/bigProject1/img/jlmealer.jpg",
+				"party" : "Americans Elect of Arizona"
+			},
+			{
+				"name" : "Kyrsten Sinema",
+				"bio":"Sinema is committed to helping our country return to the values that make America great—the same values that have guided her life so far: hard work, access to public education, fairness and opportunity.  Sinema takes her passion and talent into the 113th Congress, serving Arizona's Ninth Congressional District.  She has been to appointed to House Committee on Financial Services.  ",
+				"photo" : "/bigProject1/img/kyrstensinema.jpeg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "David Schweikert",
+				"bio" : "David Schweikert is serving his third term in the United States Congress.  He holds a seat on the Financial Services Committee, Joint Economic Committee, Co-Chairs the Valley Fever Task force with House Majority Leader Kevin McCarthy, and is the Republican Co-Chair of both the Tunisia Caucus as well as the Caucus on Access to Capital & Credit.",
+				"photo" : "/bigProject1/img/davidschweikert.jpg",
+				"party" : "Republican"
+			}
+
+
+		]
+
+
+
+	},
+
+
+{
+		"state" : "Arkansas",
+		"name" : "John Boozman",
+		"bio" : "Raised in Fort Smith, John graduated from Northside High School and went on to play football for the University of Arkansas Razorbacks while completing his pre-optometry requirements. He graduated from the Southern College of Optometry in 1977 and entered private practice that same year co-founding a family business with his brother that would ultimately become a key provider of eye care to Northwest Arkansas. ",
+		"photo" : "/bigProject1/img/johnboozman.jpg",
+		"party" : "Republican",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Connor Eldridge",
+				"bio" : "As a federal prosecutor for five years, Conner was an aggressive prosecutor of child abusers, drug traffickers and fraudsters. During his time as U.S. Attorney, he prosecuted over 100 child abusers and pornographers. In August 2014, he launched a new program called A-Chance aimed at helping children in violent and crime-ridden homes succeed in school and in life. The program began operating in 13 Arkansas public schools with Conner’s pledge to continue promoting its benefit to every school in the state.",
+				"photo" : "/bigProject1/img/connoreldridge.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Curtis Coleman",
+				"bio" : "Curtis Coleman is a small businessman and nationally-known Constitutional and liberty activist. He is the Founder and Chairman of The Institute for Constitution Policy, headquartered in North Little Rock, AR, an educational non-profit Arkansas corporation. He is also the Founder and CEO of ArOne.TV, LLC, an internet-based television station.",
+				"photo" : "/bigProject1/img/curtiscoleman.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Frank Gilbert",
+				"bio" : "About Frank Gilbert Frank Gilbert, constable of Dekalb Township in Grant County, Frank Gilbert is the Arkansas Libertarian party's first nominee for governor. Mr. Gilbert, who previously ran as a Libertarian candidate in 2012, has held the position of constable since January of 2013, attending to the rural areas of northwest Grant County. He originally campaigned for office in an effort to curtail theft in his area and to help Grant County grow safer communities. His political background also includes serving as mayor of Tull, Arkansas for eight years, coroner of Grant County for two years, and as former president of the Bauxite Education Association. Mr. Gilbert graduated from Van Buren High School before serving the United States Navy as Journalist Second Class spanning from 1968 to 1972. He attended Ouachita Baptist University prior to beginning a successful career in private security. Mr. Gilbert also serves as minister of Universal Life Church.",
+				"photo" : "/bigProject1/img/frankgilbert.jpg",
+				"party" : "Liberatarian"
+			}
+		]
+
+
+
+	},
+	{
+		"state" : "Arkansas",
+		"name" : "Tom Cotton",
+		"bio" : "Tom Cotton currently represents Arkansas in the United States Senate. He is a 6th generation Arkansan who was born and raised on his family’s cattle farm in Yell County. He graduated from Dardanelle High School before going to Harvard and Harvard Law School.",
+		"photo" : "/bigProject1/img/tomcotton.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "California",
+		"name" : "Barbara Boxer",
+		"bio" : "Born November 11, 1940, Barbara Boxer won her first political campaign in 1976, and represented California in Congress from 1983 to 1992, when she was elected Senator. A Democrat, Boxer opposed the confirmation of Supreme Court Justice Clarence Thomas and the authorization for use of military force in Iraq in 2002. Her daughter married Hillary Clinton's brother at the White House in 1994.",
+		"photo" : "/bigProject1/img/barbaraboxer.jpg",
+		"party" : "Democrat",
+		"running" : false,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Kamala Harris",
+				"bio" : "Harris was born in California's East Bay. She is the daughter of a Tamil mother, Dr. Shyamala Harris, a breast cancer specialist who came to the United States from India in 1960 to study at the University of California at Berkeley, and a Jamaican-American father, a Stanford University economics professor. Her parents divorced when Harris was a toddler; Dr. Shymala Harris raised her two daughters to embrace their African-American heritage amid Civil Rights era strife. Harris attended public schools through high school and then went on to pursue an undergraduate degree at Howard University in 1986, one of the nation's oldest historically black institutions of higher education.",
+				"photo" : "/bigProject1/img/kamalaharris.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Loretta Sanchez",
+				"bio" : "Sanchez was born in Lynwood, California. She earned a B.A. from Chapman University in 1982 and an MBA from American University in 1984.",
+				"photo" : "/bigProject1/img/lorettasanchez.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Akinyemi Agbede",
+				"bio" : "This Super Genius man came to the United States of America in the year 2001 when he won the United States of America Permanent Resident Lottery. However, since being in the United States of America he has tremendously used his Super Genius brain to the benefits of the American Students by instilling in them skills, confidence and competence in solving ANY Mathematical problems.",
+				"photo" : "/bigProject1/img/akinyemiagbede.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Steve Stokes",
+				"bio" : "Californians, my name is Steve Stokes and I am running to be your Senator in Washington, DC to represent the wishes of all who aspire to a brighter, peaceful, prosperous future. I am a small business owner and advocate for upward mobility and grassroots causes. I ran for U.S. House of Representatives and won the primary in June 2014. Although I have been a longtime activist for non-partisan politics and independent candidates, I am joining Senator Bernie Sanders as a Democrat, determined to restore democratic principles and processes to the Democratic Party and to our Nation.",
+				"photo" : "/bigProject1/img/stevestokes.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Jogn Estrada",
+				"bio" : "Estrada is a business owner and Republican activist. He has worked as an executive producer on the Republican Roundtable TV program and a campaign manager for two candidates. A native of Sanger, California, Estrada graduated from Irvington High School in 1976 and went on to earn his real estate license from Ohlone College in 1981.",
+				"photo" : "/bigProject1/img/johnestrada.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Mark Hardie",
+				"bio" : "I am a candidate for US Senate representing the California (2016). I am an attorney-at-law, former soldier, and author of 'Black & Bulletproof'.",
+				"photo" : "/bigProject1/img/markhardie.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Tom Del Beccaro",
+				"bio" : "Tom is the former Chairman of the California Republican Party and previously served as Chairman of the Republican Party in his home county of Contra Costa. A noted author and media commentator, Tom also serves as an attorney for the small business community and has, himself, been a small business owner for over 20 years. He received his law degree from Santa Clara University and his bachelor's degree from UC Berkeley.",
+				"photo" : "/bigProject1/img/tomdelbeccaro.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Tom Palzer",
+				"bio" : "Palzer earned his B.S. and M.S. from Governors State University. He studied urban and regional planning, economics and business administration. He is retired from a career in city planning. Palzer served in the United States Air Force from 1969-1972.",
+				"photo" : "/bigProject1/img/tompalzer.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Duf Sundheim",
+				"bio" : "Duf’s first major act as Chairman was to vigorously campaign for the recall of Governor Gray Davis. Duf believed the recall would have a transformative effect on California and usher in many of the changes the state needed but Sacramento was reluctant to make. The recall succeeded, the first in the history of California, the second in the history of the U.S. And with it came a new administration that dealt decisively with the car tax, political gerrymandering, excessive tailpipe emissions, criminal recidivism and workers’ compensation.",
+				"photo" : "/bigProject1/img/dufsundheim.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Phil Wyman",
+				"bio" : "Wyman is a former state assemblyman and private practice attorney. He is the owner of Phil Wyman & Associates.Wyman was born in Hollywood, California. He holds a bachelor's degree from University of California and a law degree from the University of the Pacific McGeorge Law School. Between graduating from the University of California and starting law school, Wyman attended Ateneo de Manila University in the Philippines for one year of graduate studies, from 1970-1971.From 1969-1973, Wyman served in the United States Air Force and achieved the rank of Sergeant.",
+				"photo" : "/bigProject1/img/philwyman.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Ronnie Brackett",
+				"bio" : "Growing up in New Mexico and Colorado, Ronnie was always in sports--football, wrestling, track, rodeo, and singing in the school choir or in church. Singing and writing poetry is his gift that pours out so naturally. His songs make you feel ‘at home’. Ronnie took his songs and music to 'HUMMINGBIRD PRODUCTIONS' in Nashville.  In the recording studio he was honored to have these top artists mix the best quality in his music.",
+				"photo" : "/bigProject1/img/ronniwbrackett.jpg",
+				"party" : "Independant"
+			},
+			{
+				"name" : "Mark Matthew Herd",
+				"bio" : "I grew up in Westwood, moving here at the age of six. I attended Fairburn Elementary, Emerson, Uni and Harvard Westlake. I graduated from the University of Arizona with a degree in Economics and minor in Political Science. I currently work as an independant Campaign Consultant and travel throughout the country extensively meeting with civic leaders and working for worthy causes. My brother, a friend and I started the Westwood Neighborhood Council in 2008. Soon after our first election it was reported by the City Clerk that the Westwood Neighborhood Council had the highest voter turnout in the City its first year of operation. I was a founding member, then re-elected to the Westwood NC and serve on the WRAC and Land Use Committees. Westwood has made a complete turnaround in the last four years and I'd like to see the same happen throughout the district.",
+				"photo" : "/bigProject1/img/markmatthewherd.jpg",
+				"party" : "Liberatarian"
+			}
+			
+			
+
+
+
+
+
+		]
+
+
+
+	},
+	{
+		"state" : "California",
+		"name" : "Dianne Feinstein",
+		"bio" : "As California's senior Senator, Dianne Feinstein has built a reputation as an independent voice, working with both Democrats and Republicans to find commonsense solutions to the problems facing California and the nation. Since her election to the Senate in 1992, Senator Feinstein has worked in a bipartisan way to build a significant record of legislative accomplishments, helping strengthen the nation's security at home and abroad, combat crime and violence, battle cancer and protect natural resources in California and across the country.",
+		"photo" : "/bigProject1/img/diannefeinstein.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "Colorado",
+		"name" : "Michael Bennet",
+		"bio" : "Michael F. Bennet was elected United States Senator for Colorado in November 2010. A newcomer to politics with experience in business and public service, he is widely-recognized as a pragmatic, innovative and independent thinker driven by a deep-seated obligation to create more opportunity for the next generation.",
+		"photo" : "/bigProject1/img/michaelbennet.jpg",
+		"party" : "Democrat",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Tim Neville",
+				"bio" : "Tim's story is one made possible only by the American Dream. Tim grew up modestly in Florida. His mother passed away when he was 7 years old, leaving Tim's father to raise four children by himself. Tim graduated early from high school, and by 17 he was on his own. At age 21, Tim packed up what few things he owned, grabbed his two hundred dollars in savings, hopped into his 1961 Ford Galaxie 500 with four retread tires, and came to Colorado to chase the American Dream. The day after Tim arrived, he got a job and went to work as a cook at a restaurant, where he worked hard, saved his money and paid for his college education -- eventually graduating from Regis University with a major in Business Administration and a minor in Economics.",
+				"photo" : "/bigProject1/img/timneville.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Darryl Glenn",
+				"bio" : "As a father, lawyer, retired Air Force officer, public servant and hard-working American, I worry about the polarizing national debate over the core principles that govern our country.  Parents and grandparents are rightly concerned about mounting economic burdens facing their children and grandchildren.  Hard-working individuals and families struggle with budgets that barely get them from one paycheck to the next.  Many people are dismayed as they watch their hard-earned money get wasted on government excess.  Ever increasing regulations threaten the viability of small businesses and gaps in education make finding the right employees increasingly difficult.  Americans nearing retirement fear their savings and investments in Social Security and other pensions may not adequately provide for them.  Meanwhile, Government continues shortchanging men and women in the military, law enforcement and emergency services—the people we count on to keep this country safe, prosperous and free.  And, many believe significant barriers continue to hold back women and minorities who are working hard to pursue their American dream.",
+				"photo" : "/bigProject1/img/darrylglenn.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Greg Lopez",
+				"bio" : "I think Colorado deserves a U.S. senator who is connected to the small-business community, understands how Main Street works and how to create jobs and will be a strong advocate for what’s in the best interest of the country.",
+				"photo" : "/bigProject1/img/.jpg",
+				"party" : ""
+			},
+			{
+				"name" : "Ryan Frazier",
+				"bio" : "Ryan was raised by a single mother in a working poor neighborhood. His mom worked two and sometimes three jobs, cleaning houses and schools, to provide for him and his two brothers. His mother raised him with the values of hard work, faith in God, and perseverance—to continuously strive to make a life for himself and to always do his part. These values have guided Ryan as a small business owner, a father, during his time in the U.S. Navy, and as co-founder of a public charter school educating over 800 students. Ryan runs a business that provides strategy development and professional services across the aviation, tourism, energy, education, and health care sectors. He was named a Senior Fellow of the Health Research and Education Trust. He knows a growing economy, access to healthcare, and a quality education brings more opportunity and higher income for everyday Americans.",
+				"photo" : "/bigProject1/img/ryanfrazier.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Donald Rosier",
+				"bio" : "Rosier is past chair of the Metro Area County Commissioners (MACC) group of Colorado Counties, Inc. (CCI), and is past president of the CCI Front Range District. For the past 3 years he has chaired CCI's Land Use and Natural Resource Steering Committee. In 2011, Rosier was named CCI’s Freshman Commissioner of the Year. CCI represents boards of county commissioners from more than 60 Colorado counties.",
+				"photo" : "/bigProject1/img/donaldrosier.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Jon Keyser",
+				"bio" : "Jon Keyser is a Colorado native, United States Air Force Academy graduate, and decorated combat veteran of the wars in Iraq and Afghanistan. Although he initially planned to be a pilot, Jon decided that, with simultaneous ground wars going on in Iraq and Afghanistan, he could make the biggest impact by serving our country in ground combat. Jon became an Intelligence Officer and he quickly sought out and volunteered for a sensitive deployment to Iraq. There, he served on an elite special operations team conducting capture/kill missions against our nation’s highest priority targets, including notorious Iranian-backed insurgents and members of Al-Qaeda in Iraq.",
+				"photo" : "/bigProject1/img/jonkeyser.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Lily Tang Williams",
+				"bio" : "Born in the wild west of China, Sichuan province, right before the start of the Cultural Revolution, Lily was raised with her two sibling brothers by illiterate working-class parents. Lily grew up facing poor living conditions, food rationing, Communist indoctrination, political, and social chaos under Mao’s communist regime. In this tumultuous environment, she quickly developed street smarts and compassion as well as the the values of perseverance and hard work.",
+				"photo" : "/bigProject1/img/lilytangwilliams.jpg",
+				"party" : "Liberatarian"
+			},
+			{
+				"name" : "Arn Menconi",
+				"bio" : "Arn has been called visionary, passionate, irreverent, a lighting rod, controversial, intense, energizer rabbit and fighter. He said, 'There is no such thing as an at-risk kid. The only person who is at-risk is an adult that doesn’t give back to others.' Arn founded SOS Outreach in 1993. Launched as a grassroots nonprofit, which provides funding, and activities for youth at risk. The SOS program is now running at over 30 ski areas in 15 states and has provided programming for over 5,000 kids and day trips for over 25,000 students.",
+				"photo" : "/bigProject1/img/arnmenconi.jpg",
+				"party" : "Green Party"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Colorado",
+		"name" : "Cory Gardner",
+		"bio" : "Senator Cory Gardner is a fifth-generation Coloradan who was born and raised in Yuma, a small town on the Eastern Plains of Colorado where his family has owned a farm implement dealership for over a century. He lives in the same house his great-grandparents lived in. Cory graduated summa cum laude from Colorado State University and received his law degree from the University of Colorado Boulder. After working at his family implement business and the National Corn Growers Association, Cory took a position as a Legislative Assistant for Senator Wayne Allard (R-CO) and quickly advanced to his Legislative Director.",
+		"photo" : "/bigProject1/img/corygardner.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "Connecticut",
+		"name" : "Richard Blumenthal",
+		"bio" : "Senator Blumenthal served an unprecedented five terms as Connecticut’s Attorney General, fighting for people against large and powerful special interests. His aggressive law enforcement for consumer protection, environmental stewardship, labor rights, and personal privacy has helped reshape the role of state attorneys general nationwide, and resulted in the recovery of hundreds of millions of dollars for Connecticut taxpayers and consumers each year.",
+		"photo" : "/bigProject1/img/richardblumenthal.jpg",
+		"party" : "Democrat",
+		"running" : true,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "August Wolf",
+				"bio" : "My name is August Wolf, and I believe that Connecticut needs a new Champion. As a young man I had the honor of representing our nation at the 1984 Olympics. After raising four children, being a leader in my business, and a contributor to my community, it’s now time for me to be your new champion--an advocate who stands up for the values that originally made Connecticut and America great.",
+				"photo" : "/bigProject1/img/augustwolf.png",
+				"party" : "Republican"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Connecticut",
+		"name" : "Murphy Christopher",
+		"bio" : "Senator Christopher S. Murphy is the junior United States Senator for Connecticut. Elected in 2012, Murphy serves on the Appropriations Committee, the Health, Education, Labor, and Pensions (HELP) Committee, the Foreign Relations Committee, and the Democratic Steering & Outreach Committee. Prior to his election to the U.S. Senate, Murphy served Connecticut’s Fifth Congressional District for three terms in the U.S. House of Representatives. The Fifth District includes the towns of Danbury, Meriden, New Britain, Torrington, and Waterbury. During his three terms, Murphy served on the Foreign Affairs Committee, the Committee on Oversight and Government Reform, the Energy and Commerce Committee, and the Committee on Financial Services.",
+		"photo" : "/bigProject1/img/murphychristopher.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Delaware",
+		"name" : "Thomas R. Carper",
+		"bio" : "Born in West Virginia and raised in Virginia, Senator Tom Carper attended The Ohio State University on a Navy R.O.T.C. scholarship, graduating in 1968 with a B.A. in economics. He went on to complete five years of service as a naval flight officer, serve three tours of duty in Southeast Asia during the Vietnam War, and continued to serve in the Naval Reserve as a P-3 aircraft mission commander until retiring with the rank of captain in 1991 after 23 years of military service. With the war winding down in Southeast Asia, Tom Carper moved to Delaware in 1973 where he earned his M.B.A. at the University of Delaware.",
+		"photo" : "/bigProject1/img/thomasrcarper.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+		]
+
+
+
+	},
+	{
+		"state" : "Delaware",
+		"name" : "Christopher A Coons",
+		"bio" : "Chris Coons has worked hard to earn a reputation as a principled, pragmatic legislator eager to find bipartisan solutions to the issues confronting Delaware and the nation. He has emerged as a strong voice for job creation and the innovation economy, responsible deficit reduction, progressive social justice, and forward-looking foreign policy.",
+		"photo" : "/bigProject1/img/christopheracoons.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+		
+
+		]
+
+
+
+	},
+	{
+		"state" : "Florida",
+		"name" : "Bill Nelson",
+		"bio" : "Sen. Bill Nelson is a true son of Florida, his family coming to the Panhandle in 1829, and his grandparents homesteading in the early 20th Century on land that today is the Kennedy Space Center. From a spot near there Nelson would launch into space in 1986 and spend six days orbiting the Earth aboard the space shuttle Columbia. Nearly three decades later he still vividly recalls looking back at our planet from the window of the shuttle and not seeing any political, religious or racial divides.",
+		"photo" :"/bigProject1/img/billnelson.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Florida",
+		"name" : "Marco Rubio",
+		"bio" : "As a U.S. Senator, Marco has led a bold offensive to institute innovative, conservative ideas to address these fundamental issues and to restore hope in the American Dream. His ideas are firmly rooted in this simple truth — the American economy has changed significantly in recent decades and our policies must change with it. He has proposed conservative reforms to our nation’s anti-poverty laws, tax code, regulatory policies, higher education system, vital senior safety net programs and national defense.",
+		"photo" : "/bigProject1/img/marcorubio.jpg",
+		"party" : "Republican",
+		"running" : false,
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Patrick Murphey",
+				"bio" : "Patrick Erin Murphy (b. March 30, 1983, in Miami, FL) is a Democratic member of the U.S. House representing Florida's 18th Congressional District. Murphy was first elected in 2012. Murphy won re-election in 2014 and was a member of the Democratic Congressional Campaign Committee's 'Frontline' program. He ran unopposed for the Democratic nomination in the primary on August 26, 2014, and defeated Carl Domino (R) in the general election on November 4, 2014.Murphy is seeking election to the U.S. Senate from Florida in 2016. The seat will be open should incumbent Marco Rubio pursue a presidential campaign in 2016. Based on analysis of multiple outside rankings, Murphy is a more moderate left of center Democratic Party vote. As a result, he may break with the Democratic Party line more than his fellow members.",
+				"photo" : "/bigProject1/img/aptrickmurphey.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Alan Greyson",
+				"bio" : "Alan Mark Grayson (b. March 13, 1958, in New York City, NY) is a Democratic member of the United States House of Representatives representing Florida's 9th Congressional District. Grayson won election to the U.S. House on November 6, 2012. Grayson is seeking election to the U.S. Senate from Florida in 2016. Grayson previously served in District 8 of the U.S. House from 2008 to 2010.Grayson is one of nine individuals elected to the U.S. House in 2012 who had prior congressional experience, and one of five House Democrats ousted in 2010 to make a successful comeback bid two years later. Grayson won re-election to the U.S. House in 2014. He won the Democratic nomination in the primary election on August 26, 2014. He then defeated Carol Platt (R) and Marko Milakovich (I) in the general election on November 4, 2014. Based on analysis of multiple outside rankings, Grayson is an average Democratic member of Congress, meaning he will vote with the Democratic Party on the majority of bills.",
+				"photo" : "/bigProject1/img/alangreyson.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Pam Keith",
+				"bio" : "Keith earned her J.D. from Boston College Law School in 1995. She received her M.A. and B.A. in rhetoric and communication from the University of California in 1992 and 1990, respectively. Keith has been admitted to the bar in the District of Columbia, Indiana and Illinois. Keith is a board member of Faith, Love, Hope Charity, Inc. a mentor in the Boys and Girls Clubs of Riviera Beach and a member of the Zeta Rho Omega chapter of Alpha Kappa Alpha sorority.",
+				"photo" : "/bigProject1/img/pamkeith.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ron DeSantis",
+				"bio" : "DeSantis was born in Jacksonville, FL, on September 14, 1978. DeSantis wrote the book Dreams From Our Founding Fathers in late 2011. The book prompted DeSantis to run for political office.",
+				"photo" : "/bigProject1/img/rondesantis.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Carlos Lopez-Cantera",
+				"bio" : "Lopez-Cantera graduated from the University of Miami with a bachelor's degree in 1996. He also holds an associate degree from Miami-Dade Community College. Lopez-Cantera has worked as an Industrial Commercial Real Estate Consultant at the Pan American Consulting Incorporated. He has also previously been an Industrial Real Estate Agent at the Pan American Group, Incorporated, and Statewide Director of the Criminal Justice Reform Councils, Criminal Justice Committee, Florida State Senate. He is a member of Big Brother Big Sisters of Greater Miami, Delta Sigma Pi, Hispanic American Business Association, and Realtors Association of Greater Miami and the Beaches.",
+				"photo" : "/bigProject1/img/carloslopezcantera.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Todd Wilcox",
+				"bio" : "I am a father, a decorated combat veteran, a former CIA case officer, a successful entrepreneur and business leader. I am all of these things because I was blessed to be born in the freest nation in the world – a nation founded on the principle of liberty and free market capitalism, and built on the ideals of hard work and perseverance. These ideals have guided me my entire life.",
+				"photo" : "/bigProject1/img/toddwilcox.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "David Jolly",
+				"bio" : "David Jolly is a Republican member of the United States House of Representatives representing Florida's 13th Congressional District. Jolly won election to the U.S. House in a special election on March 11, 2014. He was sworn into office on March 14, 2014. He defeated Kathleen Peters and Mark Bircher in the Republican primary on January 14, 2014. He defeated Alex Sink (D), Lucas Overby (L) and write-in candidate Michael Levinson in the special general election. Jolly won re-election to the U.S. House in 2014. He ran unopposed for the Republican nomination in the primary election. He then defeated Lucas Overby (L) in the general election on November 4, 2014.",
+				"photo" : "/bigProject1/img/davidjolly.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Charles Frederick Tolbert",
+				"bio" : "To Do God’s Work! To start a new school system, reduce divorce and bring men home!",
+				"photo" : "/bigProject1/img/charlesfredericktolbert.jpg",
+				"party" : "No Party Affiliation"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Georgia",
+		"name" : "Johnny Isakson",
+		"bio" : "Johnny Isakson is a businessman who has built a respected record of public service to the state of Georgia. As a business leader, Johnny served as president of Northside Realty for 20 years, as it grew to become the largest independent residential real estate brokerage company in the Southeast and one of the largest in America. As a public servant, Johnny served 17 years in the Georgia Legislature and two years as chairman of the Georgia Board of Education. Johnny then served three terms in the U.S. House and is now serving his second term in the U.S. Senate.",
+		"photo" : "/bigProject1/img/johnnyisakson.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Allen Buckley",
+				"bio" : "The main objectives of the campaign are to:  (a) reasonably reduce the size and scope of the federal government, while solving the nation’s financial problems; (b) limit the powers of the Executive Branch to those granted by the Constitution; (c) increase the power of individuals and states; and (d) simplify the tax system and change the U.S. entitlements system so the U.S. can potentially last indefinitely.  We need to head back towards our roots, in terms of less regulation, less entitlements, less foreign intervention, less debt, and more personal liberty and responsibility.",
+				"photo" : "/bigProject1/img/allenbuckley.jpg",
+				"party" : "Liberatarian"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Georgia",
+		"name" : "David Perdue",
+		"bio" : "David Perdue is the junior Senator from Georgia. David has over 40 years of business experience as the former CEO of Reebok athletic brand and Dollar General stores, where he created thousands of quality jobs and helped working families make it from payday to payday. David was born in Macon, Georgia and raised in Warner Robins where he grew up working on his family farm. Both of David’s parents were school teachers, and from an early age David was taught the importance of hard work and a good education.",
+		"photo" : "/bigProject1/img/davidperdue.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Hawaii",
+		"name" : "Mazie Hirono",
+		"bio" : "I am privileged to serve the people of Hawaii in the United States Senate. As an immigrant who grew up under difficult circumstances, I recognize that my path to the Senate was unlikely. At the same time, my experiences have shown me the incredible opportunities available in America and have fueled my desire to give back.",
+		"photo" : "/bigProject1/img/maziehirono.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Hawaii",
+		"name" : "Brian Schatz",
+		"bio" : "Senator Brian Schatz has dedicated his career to public service as a strong advocate for Hawai‘i’s middle-class families, a clean energy economy, seniors, our veterans, and Native Hawaiians. As Hawai‘i’s senior United States Senator, Brian serves on three Senate Committees essential to the future of Hawai‘i: Appropriations, Commerce, Science, and Transportation, and Indian Affairs.  Senator Schatz is also one of just three Democrats on the Select Committee on Ethics. ",
+		"photo" : "/bigProject1/img/bryanschatz.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Idaho",
+		"name" : "Mike Crapo",
+		"bio" : "Crapo was born in Bonneville County, ID, in 1951. He graduated from Idaho Falls High School in 1969. After that, Crapo attended and graduated from Brigham Young University Summa Cum Laude, with a B.A. in political science in 1973. In 1977, Crapo graduated from Harvard Law School, Cum Laude Juris Doctorate.",
+		"photo" : "/bigProject1/img/mikecrapo.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Idaho",
+		"name" : "James E. Risch",
+		"bio" : "Jim Risch, currently serving a second term as Idaho's 28th Senator, holds a longstanding commitment to public service and a passion for good government. Known for 'pragmatic decision-making,'' Risch is what his peers call a 'no-nonsense, get-the-job-done leader' with more than four decades of experience in elected office. He has been recognized by the National Journal as the “Most Conservative” Senator in the United States Senate for two years in a row.",
+		"photo" : "/bigProject1/img/jameserisch.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Illinois",
+		"name" : "Richard J. Durbin",
+		"bio" : "Senator Dick Durbin, a Democrat from Springfield, is the 47th U.S. Senator from the State of Illinois, the state’s senior senator, and the convener of Illinois’ bipartisan congressional delegation. Durbin also serves as the Assistant Democratic Leader, the second highest ranking position among the Senate Democrats. Also known as the Minority Whip, Senator Durbin has been elected to this leadership post by his Democratic colleagues every two years since 2005.",
+		"photo" : "/bigProject1/img/richardjdurbin.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Illinois",
+		"name" : "Mark Kirk",
+		"bio" : "Born in Champaign, Illinois, Senator Kirk graduated from Winnetka’s New Trier High School and attended Blackburn College and the Universidad Nacional Autónoma de México before earning a B.A. (cum laude) in history from Cornell University. Senator Kirk also earned a master’s degree from the London School of Economics and a law degree from Georgetown University, and served as an intelligence officer in the Navy Reserve from 1989 until 2013, when he retired with the rank of commander. ",
+		"photo" : "/bigProject1/img/markkirk.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Tammy Duckworth",
+				"bio" : "Duckworth is a graduate of the University of Hawaii. She also received her M.A. in international affairs from George Washington University and her Ph.D. in human services from Capella University.",
+				"photo" : "/bigProject1/img/tammyduckworth.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Andrea Zopp",
+				"bio" : "Andrea has dedicated her career to being a force of change. She has championed job creation, access to education, corporate responsibility and promoting economic development initiatives in underserved communities. Andrea has substantial experience in criminal justice. She served in the United States Attorney’s Office and was the first woman and African American to serve as the First Assistant in the Cook County State’s Attorney’s Office. In these roles, she fought to keep neighborhoods safe by taking on illegal guns, violent crime and gangs, worked to protect victims of domestic violence and sexual abuse and handled the tough cases – including the prosecution of a police officer for killing an unarmed homeless man.",
+				"photo" : "/bigProject1/img/andreazopp.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Napoleon Harris",
+				"bio" : "Harris' professional experience includes playing as a linebacker in the NFL from 2002 to 2009, and owning and operating two Beggars Pizza stores.",
+				"photo" : "/bigProject1/img/napoleonharris.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "James Marter",
+				"bio" : "Jim is an executive entrepreneur with 30 years’ experience in Information Technology, Project Management, and Business Process Implementation.  He manages multi-million dollar projects with oversight in all phases of business process.  His specialty is manufacturing companies’ Enterprise Resource Planning (ERP) and Quality Management implementations.  His practice crosses diverse industries including:  Electronics, Automotive, Chemical / Process, Plastic Packaging, Office Products and Retail, Construction Equipment, Agriculture, and Foundries / Railroad Products.  Jim’s success is a result of his hands-on approach, listening to all levels of staff from factory line to C-Suite.  He has crossed Illinois, the United States, and worked internationally garnering an intrinsic knowledge to negotiate and then execute complex, efficient, re-engineering of work process, new technologies and software.  His talents include blending the complexities of finance incorporating conscious capitalism, worker value, and American ideals.",
+				"photo" : "/bigProject1/img/jamesmarter.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Chris Aguayo",
+				"bio" : "Politically, Chris has become an advocate for smaller government and giving the power of governing back to the people, with a firm belief in the Constitution, maintaining his oath to uphold and defend it. Chris was an independent until January of 2015, when he became a member of the Veterans Party of America. In June of 2015, Chris became the Illinois State Chair and announced his candidacy for US Senate representing the State of Illinois. He believes that, for too long, the two parties have led to the country's failures and short-comings. Career politicians have put their personal agendas before their constituents.",
+				"photo" : "/bigProject1/img/chrisaguayo.jpg",
+				"party" : "Veterans Party of America"
+			}
+		]
+
+
+
+	},
+	{
+		"state" : "Indiana",
+		"name" : "Daniel Coats",
+		"bio" : "Coats is the first Hoosier to serve on the Senate Finance Committee since 1976. This important assignment allows Senator Coats to help tackle many of the biggest fiscal challenges our country is facing.  As a member of the Senate Intelligence Committee, he is working on initiatives to strengthen our national security and protect Americans from terrorist threats. As JEC chairman, he is pushing for tax reform, spending cuts and fiscal restraint.",
+		"photo" : "/bigProject1/img/danielcoats.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Baron Hill",
+				"bio" : "Hill was a three-sport athlete at Seymour High School, where he was all-state in football and basketball. He was inducted into the Indiana Basketball Hall of Fame in 2000. Hill accepted an athletic scholarship to Furman University in Greenville, South Carolina; where he earned a bachelor's degree in history in 1975. After graduation, he moved back to Seymour and joined his family's insurance and real estate business. Hill was a member of the Indiana House of Representatives from 1982 to 1990. He served as chairman of the Caucus Campaign Committee, where he helped elect a Democratic majority in the House. In 1990, Hill ran against Senator Dan Coats to fill the last two years of Dan Quayle's term; Quayle had been elected Vice President. He lost, 54% to 46%. Hill made a name for himself during that campaign by walking the length of the state, from the Ohio River to Lake Michigan, to meet with voters.",
+				"photo" : "/bigProject1/img/baronhill.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Marlin Stutzman",
+				"bio" : "Stutzman is a fourth-generation farmer who grew up on farms located in both Saint Joseph County, MI, and LaGrange County, IN. He graduated from Lake Area Christian High School located in Sturgis, MI, in 1994. He attended Glen Oaks Community College in 1999 and Tri-State University from 2005 to 2007.",
+				"photo" : "/bigProject1/img/marlinastutzman.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Todd Young",
+				"bio" : "Young was born was born August 24, 1972, in Lancaster, PA. After graduating from high school, Young enlisted in the U.S. Navy with the goal of attending the United States Naval Academy in Annapolis, Maryland. Young accepted a commission in the U.S. Marine Corps in 1995. After serving a decade in the military, Young spent a year in England, where he wrote a thesis on the economic history of midwestern agriculture and earned an M.A. from the School of Advanced Study in London.",
+				"photo" : "/bigProject1/img/toddyoung.jpg",
+				"party" : "Republican"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Indiana",
+		"name" : "Joe Donnelly",
+		"bio" : "Joe is committed to a moderate and common sense agenda that includes creating and preserving jobs, a strong national defense, reducing the debt and deficit, fighting for our veterans, and promoting an all-in energy plan. In the Senate, he serves on the Armed Services Committee, Banking Committee, Agriculture Committee, and Aging Committee.  In the Armed Services Committee, he serves as the Ranking Member of the Strategic Forces Subcommittee and on the Airland and Emerging Threats and Capabilities Subcommittees. On the Agriculture Committee, he serves on the following subcommittees: Commodities, Markets, Trade and Risk Management, on which he serves as Ranking Member; Jobs, Rural Development and Energy; and Livestock, Marketing and Agriculture Security.",
+		"photo" : "/bigProject1/img/joedonnelly.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Iowa",
+		"name" : "Joni Ernst",
+		"bio" : "Known for her independent leadership and commitment to public service, Joni previously served as the Montgomery County Auditor where she worked to eliminate wasteful government spending and protect taxpayers’ hard-earned dollars. As a state senator, Joni fought to balance the state budget and helped turn Iowa’s $900 million budget deficit into a $1 billion surplus. In addition to her work to balance the budget, Joni worked tirelessly to grow jobs and the economy, cut taxes, improve education, and reduce the role of government in Iowans’ lives.",
+		"photo" : "/bigProject1/img/joniernst.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Iowa",
+		"name" : "Chuck Grassley",
+		"bio" : "Grassley serves as Chairman of the Senate Committee on the Judiciary, where he works for a competitive marketplace with antitrust enforcement and tort reform, to reward innovation and invention with an updated patent system, and for legal immigration that will help America’s economy grow.  Grassley has led a campaign to open up the federal judiciary by allowing cameras in courtrooms, and he is unmatched in his legislative and oversight work to protect whistleblowers, both in and out of government, who speak up about wrongdoing for the public good.  Grassley is an advocate for victims of crime and a leader in the fight to keep illegal drugs out of the hands of young people.  He leads efforts to safeguard America’s freedom with effective anti-terrorism and domestic security policies.",
+		"photo" : "/bigProject1/img/chuckgrassley.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Robert Hogg",
+				"bio" : "Hogg earned his B.A. from the University of Iowa in 1988 and his M.A. and J.D. from the University of Minnesota. His professional experience includes working as an attorney for Elderkin & Pirnie.",
+				"photo" : "/bigProject1/img/roberthogg.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Bob Krause",
+				"bio" : "Bob is a caring person. It shows in the positions and projects he has undertaken during his very active life. He is a native Iowan who has been a state legislator, school board member, top federal official in the USDOT, national think tank director, colonel in the Army Reserve, international consultant, operator of a small business, and founder of an active veterans’ charity.",
+				"photo" : "/bigProject1/img/bobkrause.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Tom Fiegen",
+				"bio" : "My biggest concerns for Iowa and the country are: the need to address childhood hunger (One in five of our children in America is food insecure); the need to democratize and decentralize our food production in order to grow, process and market more healthy local fresh food (and revitalize local economies); and to clean up our water, by reducing and ultimately banning ag poisons like Roundup and Enlist herbicides. The number of cancer deaths in Iowa has increased over the last 40 years, despite tremendous medical advances, in large part because of the ag poisons in our drinking water.",
+				"photo" : "/bigProject1/img/tomfiegen.jpg",
+				"party" : "Democrat"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Kansas",
+		"name" : "Jerry Moran",
+		"bio" : "Senator Moran has a long history of opposing reckless spending in Washington, and as a member of the Senate Appropriations Committee has pushed for spending cuts, tougher funding standards and broad reform. As the Agriculture Appropriations Subcommittee Chairman, he has the opportunity to focus on investing in policies that are vital to Kansas’ rural communities, such as agriculture research and extension and Farm Bill implementation. Additionally, through the subcommittee’s jurisdiction over the FDA budget, Senator Moran will work to advance public health innovations, including development of new medicines, medical devices and food safety technology.",
+		"photo" : "/bigProject1/img/jerrymoran.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Kansas",
+		"name" : "Pat Roberts",
+		"bio" : "Roberts has built a reputation as a national leader in agriculture, health care and defense. He is an advocate of a strong education system, free and fair trade policies, increased investment in science and technology, a focused foreign policy and a strong military — all of which are necessary to keep Kansas competitive in today's rapidly evolving global marketplace.",
+		"photo" : "/bigProject1/img/patroberts.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Kentucky",
+		"name" : "Mitch McConnell",
+		"bio" : "Mitch McConnell is the Senate Majority Leader. Elected to that position unanimously by his Republican colleagues in 2014, he is only the second Kentuckian to ever serve as Majority Leader in the U.S. Senate. The first, Alben Barkley, led the Democrats from 1937 to 1949. Senator McConnell previously served, again by the unanimous vote of his colleagues, as the Republican Leader in the 110th, 111th, 112th and 113th Congresses and as the Majority Whip in the 108th and 109th Congresses. McConnell also served in leadership as chairman of the National Republican Senatorial Committee during the 1998 and 2000 election cycles.",
+		"photo" : "/bigProject1/img/mitchmcconnell.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Kentucky",
+		"name" : "Rand Paul",
+		"bio" : "Dr. Paul is the third of five children born to Carol and Ron Paul. He grew up in Lake Jackson, Tex., and attended Baylor University. He graduated from Duke Medical School in 1988. Dr. Paul completed a general surgery internship at Georgia Baptist Medical Center in Atlanta, Ga., and completed his residency in ophthalmology at Duke University Medical Center. Upon completion of his training in 1993, Dr. Paul and Kelley moved to Bowling Green to start their family and begin his ophthalmology practice.",
+		"photo" : "/bigProject1/img/randpaul.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Jim Gray",
+				"bio" : "Gray earned his B.S. from Vanderbilt University in 1975 and served as a Loeb Fellow at Harvard University. His professional experience includes working as CEO of Gray Construction.",
+				"photo" : "/bigProject1/img/jimgray.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Jeff Kender",
+				"bio" : "I am candidate for US Senate.  I consider myself a common man.  I am a 40 year old single father.  I am an active USW member.  I want to be your United States Senator voters of Kentucky.",
+				"photo" : "/bigProject1/img/jeffkender.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ron Leach",
+				"bio" : "Ron Leach is a retired US Army Major with over 30 years service. Ron saw four combat deployments to Iraq and Afghanistan, as well as missions related to Foreign Internal Defense. He then went to Washington, DC as at the Army’s Medical Information Management subject matter expert in the Office of the Surgeon General. Ron obtained two college degrees, one in Agriculture and Education, and one in Medical Science. Before deployment in the Army, he was a high school Agriculture and Science teacher. Ron is married to Kelly, and together they have six children and two grandchildren.",
+				"photo" : "/bigProject1/img/ronleach.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Tom Recktenwald",
+				"bio" : "Recktenwald’s campaign slogan is 'A Senator Whose Vote Cannot Be Bought.' He will not accept any funding for his campaign, stating that he is an 'average, everyday Kentuckian.' Recktenwald has used various forms of social media including YouTube to reach out to his constituents.",
+				"photo" : "/bigProject1/img/tomrecktenwald.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Sellus Wilder",
+				"bio" : "I support new economic development incentives in the regions of our state that have been devastated by the inevitable decline of the coal industry.  Too many politicians on both sides of the aisle are afraid to say publicly what they almost all acknowledge privately: that the coal industry is in a state of decline for a variety of reasons, some of them irreversible.  Rather than having a realistic discussion about the need to find new economic opportunities for our coal communities, too many candidates cynically offer false hope in the form of promising to slay the EPA in order to earn votes.  These candidates do a disservice to their own constituents by denying new economic opportunities to the eastern and western ends of our Commonwealth.  I’ll support new economic development incentives that promote a diversified economy, renewable energy, and support for out-of-work miners and their families.",
+				"photo" : "/bigProject1/img/selluswilder.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Stephen Howard Slaughter",
+				"bio" : "Stephen Howard Slaughter is a 2016 Republican candidate seeking election to the U.S. Senate from Kentucky.",
+				"photo" : "/bigProject1/img/stephenhowardslaughter.jpg",
+				"party" : "Republican"
+			}
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Louisiana",
+		"name" : "Bill Cassidy",
+		"bio" : "Bill grew up in Baton Rouge, Louisiana and attended Louisiana State University (LSU) for undergraduate and Medical School. For nearly three decades, Bill has provided care for uninsured and underinsured patients in Louisiana’s charity hospital system. During this time, he co-founded the Greater Baton Rouge Community Clinic, a clinic providing free dental and health care to the working uninsured. Bill also created a private-public partnership to vaccinate 36,000 greater Baton Rouge area children against Hepatitis B at no cost to the schools or parents. In the wake of Hurricane Katrina, Bill led a group of health care volunteers to convert an abandoned K-Mart building into an emergency health care facility, providing basic health care to hurricane evacuees.",
+		"photo" : "/bigProject1/img/billcassidy.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Louisiana",
+		"name" : "David Vitter",
+		"bio" : "U.S. Senator David Vitter is a bold, conservative reformer who is working to solve the most significant problems facing our state and our nation with Louisiana common sense. Senator Vitter believes that the federal government is too big, too bloated, and too involved in Louisianians’ daily lives, and he’s focused on taking practical, mainstream steps to cut spending, reduce the deficit, and put government back in its proper role.",
+		"photo" : "/bigProject1/img/davidvitter.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Caroline Fayard",
+				"bio" : "Fayard grew up in the Baton Rouge, Louisiana, suburb of Denham Springs. She graduated from Episcopal High School, where she was valedictorian of her graduating class and a member of Navy Junior ROTC, before earning her bachelor's degree at Dartmouth College and her J.D. from the University of Michigan Law School. After completing her law degree, Fayard worked at the White House and Goldman Sachs before taking a position at the Washington-based law firm of Williams and Connolly. She subsequently served as a clerk to a Louisiana district court judge, after which she served as an instructor at the Loyola University-New Orleans School of Law until 2009, when she returned to private practice. She currently serves as vice president on the Board of Louisiana Appleseed, a nonprofit that promotes access to justice.",
+				"photo" : "/bigProject1/img/carolinefayard.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "John Fleming",
+				"bio" : "Fleming was born in Meridian, MS. He earned both his B.S. and M.D. from the University of Mississippi in 1973 and 1976, respectively.",
+				"photo" : "/bigProject1/img/johnfleming.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Charles Boustany Jr.",
+				"bio" : "Boustany was born on February 21, 1956, in New Orleans, LA, and graduated from Cathedral Carmel High School in Lafayette, LA. He earned his B.S. from the University of Southwestern Louisiana in 1978 and his M.D. from Louisiana State University School of Medicine in 1982. Prior to his political career, Boustany worked as a surgeon.",
+				"photo" : "/bigProject1/img/charlesboustanyjr.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Rob Maness",
+				"bio" : "Rob Maness has a life long record of providing dedicated service to the Nation and ran as a Republican Candidate for the Louisiana United States Senate seat in 2014.The third son of Master Sargeant Billy and Lennie Maness, he and his three brothers grew up moving around the country and the world as their Dad served in the United States Air Force. Rob learned about many cultures, realizing how grateful he was for being an American and why our individual rights must be protected. Rob made the decision as a 17 year old high school senior to enlist in the Air Force and serve in uniform as the country faced multiple crisis around the world. Having worked his way up from the enlisted ranks to full colonel, he retired from active duty in 2011, ending his military service of more than 32 years. Rob and Candy came back to Louisiana to continue raising their family, where he had spent much of his military career. He worked in the utility industry as a director for two years after his military retirement and is currently the Owner of Iron Liberty Consulting Group, residing in Madisonville, Louisiana.",
+				"photo" : "/bigProject1/img/robmaness.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Joseph Cao",
+				"bio" : "Cao taught philosophy and ethics at Loyola University in New Orleans for a year after earning his master's, then worked a year as a parochial school teacher in Virginia. Cao studied law at the Loyola School of Law from 1997 to 2000; after earning his J.D., he became an associate at the Waltzer Law Firm. After leaving Waltzer, he worked as in-house counsel for Boat People SOS, an organization 'seeking to aid the social and cultural assimilation for poor immigrants.' He opened a private practice, which he continues to operate, in 2002. Cao has also served on the Board of Elections for Orleans Parish, the Republican Parish Executive Committee and the Louisiana State Republican Executive Committee.",
+				"photo" : "/bigProject1/img/josephcao.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "John Neely Kennedy",
+				"bio" : "An educator by profession, Kennedy works as an adjunct professor at LSU Law School in addition to his treasurer duties. He is also a volunteer substitute teacher for East Baton Rouge Parish public schools.[1] Before becoming treasurer, Kennedy served as Secretary of the Louisiana Department of Revenue from 1996-1999.",
+				"photo" : "/bigProject1/img/johnneelykennedy.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Troy Hebert",
+				"bio" : "Hebert attended the University of Southwestern Louisiana. Hebert was a sugarcane farmer from 1983 to 1988. Hebert was a member of the Iberia Parish Council from 1991 to 1995. He served in the Louisiana State House of Representatives from 1995 to 2007. He then joined the Louisiana State Senate in 2008 and served in that position until his appointment to the position of Louisiana Alcohol & Tobacco Control Commissioner.",
+				"photo" : "/bigProject1/img/troyhebert.jpg",
+				"party" : "Independent"
+			}
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Maine",
+		"name" : "Susan Collins",
+		"bio" : "Senator Collins is recognized as skillful legislator, which is one reason why Elle magazine named her one of the most powerful women in Washington.  Her record demonstrates significant legislative accomplishments in such critical areas as homeland security, national defense, disaster response, education, business development, health care, and issues of particular interest to our nation’s seniors.  Along with Senator Joe Lieberman, Collins authored a major overhaul of our nation’s intelligence community after the September 11th attacks and also led the successful effort to repeal the discriminatory 'Don’t Ask, Don’t Tell' law that prohibited gay and lesbian Americans from serving openly in the military.  In 2013, she forged the bipartisan coalition that ended a 16-day shutdown of the federal government.",
+		"photo" : "/bigProject1/img/susancollins.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Maine",
+		"name" : "Angus S. King Jr.",
+		"bio" : " first came to the U.S. Senate in my early twenties to work as a staff member for former Maine Senator William Hathaway.  I never imagined that 40 years later I would return to our nation’s capital with the privilege of serving as a United States Senator for the people of Maine. Our state has a strong tradition of independence – something I strive to reflect in my day to day activities.  Mainers come from a diversity of backgrounds and have a diversity of interests – that’s one reason why Maine is such a special place.  Every day I meet with visiting constituents to hear their ideas and concerns, and in turn, I work with my colleagues from both sides of the aisle to see how we can best work together to create a better Maine and a better country for generations to come. Ideas are the most valuable commodity around here so please feel free to share your thoughts with me and my staff.",
+		"photo" : "/bigProject1/img/angus.jpg",
+		"party" : "Independent",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Maryland",
+		"name" : "Ben Cardin",
+		"bio" : "Senator Cardin is a leading advocate for the Chesapeake Bay, which is the economic, historical and cultural heart of Maryland. Nationally, he is a champion of protecting our clean air and clean water. He has introduced legislation to restore the health of America’s great water bodies and is the leading proponent of investing in improvements to America’s aging water infrastructure system while preparing it for the impacts of climate change.  His commitment to reduce pollution and protect our environment fuels his work to broaden investments in safe public transit, as well as walking and bike trails.",
+		"photo" : "/bigProject1/img/cardin.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Maryland",
+		"name" : "Barbara A. Mikulski",
+		"bio" : "Determined to make a difference in her community, Mikulski became a social worker in Baltimore, helping at–risk children and educating seniors about the Medicare program. Social work evolved into community activism when Mikulski successfully organized communities against a plan to build a 16–lane highway through Baltimore’s Fells Point neighborhood. She helped stop the road, saving Fells Point and Baltimore’s Inner Harbor, both thriving residential and commercial communities today.",
+		"photo" : "/bigProject1/img/mikulski.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Fred Donald Dickson, Jr.",
+				"bio" : "Dickson graduated from Woodlawn High School in 1978. He went on to earn his B.S. in business administration with a concentration in advertising and marketing from Salisbury State College, now Salisbury University, in 1982. Professionally, Dickson has pursued a career in home improvement. He has owned several small businesses relating to home improvement. He currently owns and operates Delmarva Granite and Marble Inc. He is also the founder and president of World Wide All Cancer Foundation Inc. Additionally, Dickson serves as a senior member second lieutenant in the United States Air Force Civil Air Patrol.",
+				"photo" : "/bigProject1/img/Fred_Donald.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Donna Edwards",
+				"bio" : "Edwards was born in 1958 in Yanceyville, NC. She earned her B.A. from Wake Forest University and her J.D. from the Franklin Pierce Law Center. Prior to her congressional career, Edwards worked as an attorney, clerk, District of Columbia Superior Court judge, and executive director of the National Network to End Domestic Violence.",
+				"photo" : "/bigProject1/img/Donna_F_Edwards.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ralph Jaffe",
+				"bio" : "As a TEACHER, not as a politician, I ran as a Democratic candidate for Governor in 2010, and I received almost 20,000 votes on a budget of $450 by design. I want to get rid of corruption in government. This continues to be my philosophy in all other campaigns. I am running as a Democratic candidate for the United States Senate in the April 2016 primary.",
+				"photo" : "/bigProject1/img/ralphjaffe.jpg",
+				"party" : "Democrat"
+			},
+
+			{
+				"name" : "Charles Smith",
+				"bio" : "Charles Smith is a 2016 Democratic candidate seeking election to the U.S. Senate from Maryland. Smith was a 2014 Democratic write-in candidate for Governor of Maryland. He lost in the primary election on June 24, 2014. In 2012, Smith ran as a Democratic write-in candidate for the U.S. House to represent the 7th Congressional District of Maryland. Smith was defeated by incumbent Elijah Cummings in the Democratic primary on April 3, 2012, and ran as a write-in candidate.",
+				"photo" : "/bigProject1/img/Charles_Smith.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Violet Staley",
+				"bio" : "In 2000 I ran for the Los Angeles Unified School District Board of Education, and in 2001 we were transferred to Fort Jackson, South Carolina.  I worked for the Dept. of Child & Youth Services, until 2004 when I was employed by the About Face Afterschool Program at Bible Way Church of Atlas Rd. in Columbia. While in Columbia, I volunteered with the re-election campaign ofa State Senator,, the election campaigns of a Represenative, and a Richland 2 School District Board member.  I also volunteered in Hillary Clinton's Primary campaign, and then in President Obama's 2008 run for the White House.",
+				"photo" : "/bigProject1/img/violetstaley.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Blaine Taylor",
+				"bio" : "Blaine Taylor is a 2016 Democratic candidate seeking election to the U.S. Senate from Maryland. Taylor was a 2014 Democratic candidate who sought election to the U.S. House to represent the 2nd Congressional District of Maryland. He was defeated by incumbent Dutch Ruppersberger in the Democratic primary on June 24, 2014. He was a 2012 Democratic candidate who sought election to the U.S. Senate from Maryland. He was defeated by incumbent Ben Cardin in the Democratic primary on April 3, 2012.",
+				"photo" : "/bigProject1/img/blainetaylor.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ed Tinus",
+				"bio" : "In my term, with true transparency, I will keep you informed, collect your educated votes, and carry them to Washington as your representative, thereby returning the power of the senate to the citizens of Maryland. Do not surrender your vote to the wishes of a politician and their financial supporters and lobbyists for the next six years. Vote Ed Tinus so your vote can create effective change in our generation; so your vote will once again regulate government activities, so your vote will re-establish the checks and balances of our forefathers. Your vote can eliminate corporate control, force lobbying groups to change their policies, and return our government to the will of the majority rather than the will of the privileged. A return to Direct Democracy could end bi-partisanship and put the focus back on what is best for our nation.",
+				"photo" : "/bigProject1/img/ed.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Van Hollen",
+				"bio" : "Van Hollen was born in 1959 in Karachi, Pakistan, where his father worked as a foreign service officer. He earned his B.A. from Swarthmore College, his M.P.P. from the Kennedy School of Government at Harvard University and his J.D. from Georgetown Law School in 1982, 1985, and 1990, respectively. Prior to his political career, Van Hollen worked as an attorney.",
+				"photo" : "/bigProject1/img/Chris_van_Hollen.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Chris Chaffee",
+				"bio" : "As members of the community, my wife and I volunteered as coaches for Calvert County Parks and Recreation and Calvert Soccer Association for over 15 years. I was also a volunteer basketball coach for St. John Vianney. During this time, we enjoyed the privilege of meeting hundreds of parents and children throughout the  community. I hope to see everyone on April 26, 2016 General Election. I would like to thank all Voters that helped me get to the General Election .",
+				"photo" : "/bigProject1/img/Chris_Chaffee.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Rich Douglas",
+				"bio" : "In the George W. Bush Administration, Rich was deputy assistant secretary of defense for counter-narcotics and counter-proliferation. Rich is an Iraq veteran and also served as senior lawyer at three U.S. Senate committees, working for principled legends like the late Jesse Helms. One of the few to serve on Capitol Hill with experience in both the mechanical trades and the armed forces, Rich is genuinely alarmed over Congress’s abandonment of American workers.",
+				"photo" : "/bigProject1/img/Richard_Douglas.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "John Graziani",
+				"bio" : "John Graziani is a 2016 Republican candidate seeking election to the U.S. Senate from Maryland. Graziani was a 2014 Republican candidate who sought election to the U.S. House to represent the 4th Congressional District of Maryland. He was defeated by Nancy Hoyt in the Republican primary on June 24, 2014.",
+				"photo" : "/bigProject1/img/johngraziani.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Greg Holmes",
+				"bio" : "Greg Holmes is a 2016 Republican candidate seeking election to the U.S. Senate from Maryland. Holmes was a 2014 Republican candidate who sought election to the U.S. House to represent the 4th Congressional District of Maryland.[2] He was defeated by Nancy Hoyt in the Republican primary on June 24, 2014. He was a 2012 Republican candidate who sought election to the U.S. House to represent the 4th Congressional District of Maryland. Holmes was defeated by Faith Loudon in the Republican primary on April 3, 2012.",
+				"photo" : "/bigProject1/img/GregHolmes.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Chrys Kefalas",
+				"bio" : "As a business leader with a long history of success, Chrys knows what it takes to build opportunity, create jobs, and give a voice to our middle class.",
+				"photo" : "/bigProject1/img/Chrys-Kefalas.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Lynn Richardson",
+				"bio" : "Lynn Richardson is a life-long resident of Maryland.  She is married and lives in Baltimore County. Lynn has been the owner of a small advertising and commercial photography company called Picture This Multimedia Services, since 1992.  Active in the community in several non-profit organizations, where she has served as a director and member, she is also the current president of the Perry Hall/White Marsh Business Association.",
+				"photo" : "/bigProject1/img/Lynn_Richardson_portrait.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Anthony Seda",
+				"bio" : "Anthony Seda grew up in the Inner City of Southwest Baltimore. He grew up in poverty with two loving parents. He is the son of Joseph Seda and the late Juanita Ann Beatty Seda. He grew up with every disadvantage. He was not afforded the luxury of obtaining a private school education. Rather, he was forced to attend Southwestern High School, the worst performing school in the city of Baltimore.  Though his high school career did not prepare him with a good education, his experience instilled within him a drive to be successful.",
+				"photo" : "/bigProject1/img/AnthonySeda.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Kathy Szeliga",
+				"bio" : "Szeliga earned her B.A. in Elementary Education from Towson University in 1994. Her professional experience includes working as a teacher and a small business owner.",
+				"photo" : "/bigProject1/img/Kathy_Szeliga.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Greg Dorsey",
+				"bio" : "I believe in selfless, ethical, responsible and objective public servant singularities that can do their term or 'limited terms' and go back to their previous careers; not self-serving 'career' politicians comfortably immersed in a partisan power struggle with tremendous aspirations of upward mobility within their 'establishment' rank and file. ",
+				"photo" : "/bigProject1/img/gregdorsey.jpg",
+				"party" : "Independent"
+			},
+			{
+				"name" : "Margaret Flowers",
+				"bio" : "Margaret Flowers is a Maryland pediatrician and mother of three. After graduating from the University of Maryland School of Medicine in 1990 and completing her pediatric residence at Johns Hopkins Hospital in Baltimore, Margaret worked first in hospitals in Carroll County and and then in private practice. In 2007 she stopped practicing medicine to start advocating full-time for a state and federal single payer health care system. ",
+				"photo" : "/bigProject1/img/Flowers.jpg",
+				"party" : "Green Party"
+			},
+			{
+				"name" : "Edward Shlikas",
+				"bio" : "Edward Shlikas has been interested in politics and policy for many years. Shlikas has never quite fit into either the Democratic or Republican parties. He believes there are millions of great Marylanders who feel the same way and are looking for an alternative to the Democratic and Republican party nominees. If you are looking for a candidate who more closely represents your views, then look no further, Edward Shlikas is the candidate for you. Shlikas is running to represent you and every person in the State of Maryland, not just the special interests and their lobbyists that are behind the Democratic and Republican nominees, who represent their interests and not yours. Edward Shlikas will represent your interests in the United States Senate. Shlikas has proven leadership & collaborative skills and integrity. If elected to the Senate, Edward Shlikas will only serve for two terms. Shlikas is an expert problem solver and will work tirelessly with both sides of the aisle to fix what is wrong with Washington to make Maryland and America a better place to live for everyone. Shlikas will fix it!",
+				"photo" : "/bigProject1/img/EdwardShlikas.jpg",
+				"party" : "Independent"
+			}
+		]
+
+
+
+	},
+	{
+		"state" : "Massachusetts",
+		"name" : "Ed Markey",
+		"bio" : "Senator Edward J. Markey, a consumer champion and national leader on energy, environmental protection and telecommunications policy, has a prolific legislative record on major issues across the policy spectrum and a deep commitment to improving the lives of the people of Massachusetts and our country. Whether the issue is climate change, clean energy, safeguarding privacy, nuclear non-proliferation, investor protection or preserving an open Internet that spurs competition and consumer choice, Senator Markey stands up for the priorities and values of Massachusetts. ",
+		"photo" : "/bigProject1/img/edmarkey.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Massachusetts",
+		"name" : "Elizabeth Warren",
+		"bio" : "Elizabeth Warren, a fearless consumer advocate who has made her life's work the fight for middle class families, was elected to the United States Senate on November 6, 2012, by the people of Massachusetts. Elizabeth is recognized as one of the nation's top experts on bankruptcy and the financial pressures facing middle class families, and the Boston Globe has called her the plainspoken voice of people getting crushed by so many predatory lenders and under regulated banks.",
+		"photo" : "/bigProject1/img/Warren.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Michigan",
+		"name" : "Debbie Stabenow",
+		"bio" : "Born in Gladwin and raised in Clare, Debbie Stabenow knows what matters to Michigan. Elected to the United States Senate in 2000, she is respected for her ability to build coalitions to get things done for Michigan and our nation. As Ranking Member of the Senate Agriculture Committee, and as a member of the Senate Energy, Finance, and Budget Committees, she has a powerful and unique role to play in shaping our nation's manufacturing, health care, and agriculture policies, which are so critical to our future. Among her many accomplishments, she has cut taxes for small businesses and passed initiatives to revitalize our manufacturing sector. Senator Stabenow authored a bipartisan Farm Bill that is strengthening Michigan agriculture and making unprecedented investments in protecting the Great Lakes. She has played a leading role in making positive reforms to health care, and she successfully passed far-reaching reforms to improve our nation’s mental health system. She is a true friend and fighter for Michigan.",
+		"photo" : "/bigProject1/img/debbiestabenow.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Michigan",
+		"name" : "Gary Peters",
+		"bio" : "Elected in 2014, Senator Gary Peters is honored to represent the State of Michigan in the U.S. Senate. Throughout his career in public service, Gary has been a strong, independent voice for Michigan’s families and small businesses. He has focused on uniting our communities by fighting for the things that we all agree on — a stronger economy, good-paying jobs, affordable health care, a secure retirement and a fair chance for everyone to succeed.",
+		"photo" : "/bigProject1/img/Gary_Peters.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Minnesota",
+		"name" : "Al Franken",
+		"bio" : "U.S. Senator Al Franken was born on May 21, 1951, and grew up in St. Louis Park, Minnesota. In 1973, he graduated from Harvard, where he met his wife Franni. They've been married for 40 years, and have two grown children, Thomasin and Joe. The couple's first grandchild, Joe, was born to Thomasin and her husband Brody in May 2013. Before running for the Senate, Al spent 37 years as a comedy writer, author, and radio talk show host and has taken part in seven USO tours, visiting our troops overseas in Germany, Bosnia, Kosovo, and Uzbekistan-as well as visiting Iraq, Afghanistan, and Kuwait four times.",
+		"photo" : "/bigProject1/img/Franken_Al.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Minnesota",
+		"name" : "Amy Klobuchar",
+		"bio" : "Born in Plymouth, Minnesota, Klobuchar is the daughter of Rose Katherine (née Heuberger), who retired at age 70 from teaching second grade, and James John 'Jim' Klobuchar, an author and a retired sportswriter and columnist for the Star Tribune. Jim Klobuchar's grandparents were Slovene immigrants and his father was a miner on the Iron Range; Amy's maternal grandparents were from Switzerland. Klobuchar attended public schools in Plymouth and was valedictorian at Wayzata High School. She received her bachelor's degree magna cum laude in political science from Yale University in 1982, where she was a member of the Yale College Democrats and the Feminist Caucus. Her senior thesis was published as Uncovering the Dome, a 150-page history describing the ten years of politics surrounding the building of the Hubert H. Humphrey Metrodome in Minneapolis. Klobuchar served as an associate editor of the University of Chicago Law Review and received her Juris Doctor in 1985 at the University of Chicago Law School.",
+		"photo" : "/bigProject1/img/Amy_Klobuchar.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Mississippi",
+		"name" : "Thad Cochran",
+		"bio" : "For Mississippi, Cochran has maintained a focus throughout his career on promoting economic development and educational opportunity.  He has sponsored legislation and promoted policies related to rural economic development, including key provisions of several national farm policy bills.  Cochran has also written legislation supporting education programs such as teacher training, vocational education, libraries, and educational television.  He has supported programs to increase educational achievement among disadvantaged children, particularly in rural areas.",
+		"photo" : "/bigProject1/img/cochran.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Mississippi",
+		"name" : "Roger Wicker",
+		"bio" : "Roger F. Wicker has represented Mississippi in the United States Senate since December 2007. During his time in the Senate, Wicker has championed pro-growth policies to create jobs and has worked to reduce spending, limit federal overreach, and maintain a strong national defense. He is a member of the Senate Republican leadership team, serving as chairman of the National Republican Senatorial Committee. As a member of the Senate Armed Services Committee, he chairs the Subcommittee on Seapower.",
+		"photo" : "/bigProject1/img/wicker.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Missouri",
+		"name" : "Roy Blunt",
+		"bio" : "Building on a background as a public servant, university president, and teacher, United States Senator Roy Blunt was elected to the United States Senate in 2010. Senator Blunt serves as the Vice Chairman of the Senate Republican Conference. He also serves on the Senate Appropriations Committee; the Senate Commerce, Science and Transportation Committee; and the Senate Select Committee on Intelligence. He is the Chairman of the Senate Rules Committee and Chairman of the Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies. The people of Southwest Missouri overwhelmingly elected Senator Blunt seven times to the U.S. House of Representatives. Senator Blunt was elected the Majority Whip earlier in his career than any Member of Congress in eight decades, and he was elected to the Senate leadership during his first year in the Senate.",
+		"photo" : "/bigProject1/img/royblunt.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Jason Kander",
+				"bio" : "Kander worked as an attorney and is a Second Lieutenant/Instructor in the United States Army Reserve. He served as a Military Intelligence Officer in the United States Army, Afghanistan from 2006-2007, and was a Political Science Instructor at the University of Missouri-Kansas City. He earned his J.D. from Georgetown Law School and B.A. in political science from American University. Kander is on the Board of Directors of Coro Kansas City, founder of Heartland Democrats of America, and a member of the Kansas City Metropolitan Bar Association, Missouri Association of Trial Attorneys, Missouri State Bar Association, and New Reform Temple.",
+				"photo" : "/bigProject1/img/Jason_Kander.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Rabbi Alam",
+				"bio" : "Alam is part of the North American Bangladeshi Association for Bangladesh (NABAB) and is the chairman for the U.S. National Democratic Party Asian-American Caucus. Alam is also the founder of the American Muslim Political Action Committee (AMPAC), and currently hosts the AMPAC Radio Community Talk-Show with co-host Kevin Barrett.",
+				"photo" : "/bigProject1/img/Rabbi_Alam.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Christopher Batsche",
+				"bio" : "I AM THE MIDDLE CLASS!!  I'm not a millionaire who is out of touch with the average person.  I'm a down to Earth, hard working man.  Who better to be the voice for the middle class in Washington than a member of it.  Every election cycle we have these folks saying 'I'll fight for the middle class', but turn around and do the exact opposite of what they campaigned on.  Funny how every time someone looks out for the middle class, it's us that ends up paying the price!  That has to change!! I'm a very simple guy who believes that honesty, integrity, character, hard work, and a person's word are still things to which one can live by.  There's no need to over complicate life.  I come from a family of entrepreneurs.  Both of my grandfathers owned businesses, as well as both of my parents.  A strong work ethic is in the fiber of who I am.  Work hard and never give up!  I have always been a strong believer in doing what you say you are going to do and putting 110% into everything.  My grandpa used to say 'if it ain't worth doing right, then it ain't worth doing'.  I try to apply that thought to whatever it is that I am doing.  You only get out what you put in, and nothing is free.",
+				"photo" : "/bigProject1/img/ChristopherBatsche.jpg",
+				"party" : "Republican"
+			}
+
+
+		]
+
+
+
+	},
+	{
+		"state" : "Missouri",
+		"name" : "Claire McCaskill",
+		"bio" : "In 2006, Claire became the first woman elected to the U.S. Senate from Missouri, winning the seat once held by Harry Truman. Making good on a campaign pledge, Claire waged a successful six-year effort to rein in wasteful wartime contracting practices in Iraq and Afghanistan - modeled on Harry Truman's famous battle against war profiteering. During the final hours of Claire's first Senate term, her signature legislation implementing historic wartime contracting reforms was signed into law. Claire's efforts led to the creation of a new Senate panel charged with financial and contracting oversight. As Chairman, Claire led nearly 40 hearings, and launched an even greater number of investigations at dozens of federal departments and agencies, resulting in more than 30 instances of misconduct referred to federal investigators.",
+		"photo" : "/bigProject1/img/clairemccaskill.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Montana",
+		"name" : "Steve Daines",
+		"bio" : "In the U.S. Senate, Daines is working on issues of critical importance to growing good-paying Montana jobs, developing our state’s energy resources, managing and protecting our public lands and supporting the needs of Montana’s veterans and tribes. He serves on the Senate Committees on Appropriations, Energy and Natural Resources, Commerce, and Indian Affairs. Steve has been married to his wife, Cindy, for 28 years. They live in Bozeman and are the parents of four children: David, Annie, Michael and Caroline. Steve and his family are actively involved in their church and community volunteer organizations and enjoy backpacking, hunting, skiing and fishing.",
+		"photo" : "/bigProject1/img/stevedaines.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Montana",
+		"name" : "Jon Tester",
+		"bio" : "In the U.S. Senate, Jon is an outspoken voice for rural America.  He is an advocate for small businesses who has hosted numerous Small Business Opportunity Workshops across Montana to serve thousands of business owners and entrepreneurs.  He is a champion of responsible energy development, sportsmen’s issues, clean air and water, Indian nations, women’s access to care, and quality health care for all of America’s veterans—no matter where they live. In the Senate, Jon serves on the Veterans’ Affairs, Homeland Security, Indian Affairs, Banking and Appropriations Committees. In addition to farming and teaching, Jon and Sharla for years ran a custom butcher shop.  Jon still butchers his own meat and regularly hauls it to Washington with him in a carry-on suitcase. That’s because Jon Tester has deep roots in Montana.  He always will.",
+		"photo" : "/bigProject1/img/jontester.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Nebraska",
+		"name" : "Deb Fischer",
+		"bio" : "Senator Fischer believes the first duty of Congress is to defend the nation. As a member of the Senate Armed Services Committee, she is committed to neutralizing growing threats to our homeland and our allies. In her capacity as chairman of the Senate Armed Services Subcommittee on Emerging Threats and Capabilities, she is focused on working with our military to monitor the threats facing our nation and provide the appropriate tools for them to meet these challenges. This subcommittee’s jurisdiction includes cybersecurity policy. Fischer also serves on the Senate’s Commerce, Science, and Transportation Committee as chairman of the Subcommittee on Surface Transportation and Merchant Marine Infrastructure, Safety and Security. This chairmanship enables her to continue leading on transportation issues, which have been one of her top priorities dating back to her chairmanship of the Nebraska Legislature’s Transportation and Telecommunication Committee.",
+		"photo" : "/bigProject1/img/Deb_Fischer.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Nebraska",
+		"name" : "Ben Sasse",
+		"bio" : "He was elected in a 2014 landslide, winning each of Nebraska's 93 counties, and securing the second-largest margin for a new senator in the history of the state. Living off of a rickety old campaign bus, he and his family campaigned tirelessly on a common-sense platform of restoring the Constitution to its rightful place and encouraging a more constructive politics where every public official works to make the American Dream achievable for every family. He believes in term limits and a humbler Washington, where the federal government does fewer things, but the more important things, more urgently, more transparently, and with less partisan screaming. Healthy lives are lived primarily in the private sector, and the vast majority of good policy is created at the state and local level -- and Washington should get better at talking honestly about these essential American realities.",
+		"photo" : "/bigProject1/img/bensasse.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Nevada",
+		"name" : "Dean Heller",
+		"bio" : "Dean Heller was sworn in to the United States Senate on May 9, 2011.  Prior to Heller’s service in the Senate, he served as Nevada’s Representative to the Second Congressional District, as Nevada's Secretary of State for three terms, and in the Nevada State Assembly for two terms. He currently serves on the Committee on Finance; Banking, Housing, and Urban Affairs Committee; Committee on Veterans' Affairs; the Commerce, Science, and Transportation Committee; and the Special Committee on Aging. These committees provide him a wide variety of opportunities to address his top priorities -- creating jobs, restoring Nevada’s economy, keeping families in their homes and ensuring our veterans receive the benefits they earned and deserve. Dean grew up with five brothers and sisters in Carson City, where he attended high school.  In 1985 he received a Bachelor's Degree in Business Administration from the University of Southern California, specializing in finance and securities analysis.  He also worked as a stockbroker and as a broker/trader on the Pacific Stock Exchange. Dean and his wife Lynne have been married for nearly 30 years and have raised their four children: Hilary, Harris, Drew, and Emmy in Carson City. He is a proud grandfather of Brielle and Zachary.",
+		"photo" : "/bigProject1/img/deanheller.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+		
+
+		]
+
+
+
+	},
+	{
+		"state" : "Nevada",
+		"name" : "Harry Reid",
+		"bio" : "To understand Senator Harry Reid, you must look to the small mining town of Searchlight, Nevada. There in the desert, more than an hour away from the bright lights of Las Vegas is where he was born and raised. Searchlight is where Harry Reid watched his father work as a hard rock miner. It’s where he attended a school with one teacher for eight grades. And it’s where he learned Nevada values like hard work, opportunity, and independence. Today Harry Reid is the Democratic Leader in the U.S. Senate, someone that has earned the respect of colleagues from both parties, and a powerful advocate for Nevada families. Every day Senator Reid puts his leadership position to work to deliver meaningful results for all Nevadans.",
+		"photo" : "/bigProject1/img/harryreid.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Catherine Cortez Masto",
+				"bio" : "Upon graduating from law school, Masto joined the Nevada State Bar Association. Her initial steps onto the Nevada political stage came when she received the position of Southern District Director for then-Governor Bob Miller. Three years later she was appointed Miller's Chief of Staff while simultaneously operating as an assistant to the United States Attorney General. Her employment in both of these roles ended in 2002. That same year, Masto began her work as assistant county manager for Clark County helping to improve child services and developing the Juvenile Detention Alternatives Initiative.",
+				"photo" : "/bigProject1/img/Catherine_Cortez_Masto2.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Joe Heck",
+				"bio" : "Heck was born in Queens, New York. He earned a B.A. from Pennsylvania State University in 1984 and his Doctor's of Osteopathic Medicine (D.O) from the Philadelphia College of Osteopathic Medicine in 1988. He earned a Master's of Strategic Studies (M.S.S.) at the U.S. Army War College in 2006. Heck worked as a physician and as the president and medical director of Specialized Medical Operations, Inc. He has taught classes at Touro University, the Community College of Southern Nevada and the University of Nevada School of Medicine.",
+				"photo" : "/bigProject1/img/Joe_Heck.jpg",
+				"party" : "Republican"
+			}
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Hampshire",
+		"name" : "Kelly Ayotte",
+		"bio" : "A fiscal hawk, Kelly has led the fight to cut wasteful spending and pass common sense budget reforms. She has stood on principle to vote against bloated budget bills that have included money for programs we don't need and can't afford. In addition to her support for a Balanced Budget Amendment and a permanent ban on earmarks, she is an outspoken advocate for accountability and transparency in government, and she has authored numerous legislative proposals to eliminate wasteful, duplicative, or fraudulent federal programs across government. To streamline the Pentagon, she successfully passed legislation in the Senate to save over $1 billion in the Department's budget, and passed a measure to keep U.S. tax dollars out of the hands of America's enemies.",
+		"photo" : "/bigProject1/img/kelly-ayotte.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Maggie Hassan",
+				"bio" : "In the past, Hassan was involved in representing school systems in special education matters. In 1999, then-Governor Jeanne Shaheen asked her to serve as an advocate on the Advisory Committee to the Adequacy in Education and Finance Commission. Before entering public service, Hassan was Information Officer for the Massachusetts Department of Social Services from 1980 to 1982. She then worked as an attorney for Palmer and Dodge from 1985 to 1992. She also worked as attorney/Assistant General Counsel for Brigham and Women's Hospital/Partners Healthcare from 1993 to 1996. She became an attorney for Sullivan, Weinstein, and McQuay in 1996. Hassan was born in Boston, but grew up Lincoln, Massachusetts. Hassan earned her B.A. from Brown University in 1980. She went on to receive her J.D. from Northeastern University School of Law in 1985.",
+				"photo" : "/bigProject1/img/Maggie_Hassan.jpg",
+				"party" : "Democrat"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Hampshire",
+		"name" : "Jeanne Shaheen",
+		"bio" : "The only woman in U.S. history to be elected both a Governor and a United States Senator, Jeanne Shaheen has been committed to serving the citizens of New Hampshire and is known for her common-sense leadership, hard work and dedication to improving the lives of the middle class. She has served in the United States Senate since 2009 and is a member of the Senate Committees on Armed Services, Foreign Relations, Appropriations, and Small Business and Entrepreneurship.",
+		"photo" : "/bigProject1/img/Shaheen_bio.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Jersey",
+		"name" : "Cory Booker",
+		"bio" : "Booker began his political career as a Newark City Councilor from 1998 to 2002. He ran for Mayor in 2002, but lost to incumbent Sharpe James; he ran again in 2006 and won against deputy mayor Ronald Rice. During his tenure as Mayor, his priorities were reducing crime and encouraging economic development projects. He gained a national reputation for his personal involvement in public service, particularly through his use of social media tools such as Twitter to connect with constituents. Considered one of the most prominent Democrats in New Jersey, he became a candidate for the United States Senate in the 2013 special election to succeed Frank Lautenberg, who died in office. He won the Senate Democratic primary on August 13, 2013 and then won the general election against Steve Lonegan on October 16, 2013, becoming the first black U.S. Senator from New Jersey. Booker subsequently won the next regular election for the Senate seat against Jeff Bell in 2014. In February 2016 The New York Times identified him as a potential nominee to replace Justice Antonin Scalia.",
+		"photo" : "/bigProject1/img/Cory_Booker_Senate.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Jersey",
+		"name" : "Bob Menendez",
+		"bio" : "Senator Bob Menendez’s story is a quintessential American story. He grew up the son of Cuban immigrants in a tenement building in Union City and has risen to become one of 100 United States Senators. He served as Chairman of the Senate Foreign Relations Committee in the 113th Congress. The Committee is one of the oldest and most revered Committees in the Senate, at a time when world affairs has a dramatic impact on our economy at home. He has earned a national reputation for his international leadership in the Senate, which pairs with his long-time reputation as a fighter for New Jersey families who puts their economic security ahead of powerful special interests.",
+		"photo" : "/bigProject1/img/RM-Headshot-Chairman-small.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Mexico",
+		"name" : "Martin Heinrich",
+		"bio" : "U.S. Senator Martin Heinrich is the junior United States Senator for New Mexico. Elected in 2012, Heinrich serves on the Senate Energy and Natural Resources, Armed Services, Intelligence, and Joint Economic Committees. He is the Ranking Member of the Subcommittee on National Parks and a member of the Migratory Bird Conservation Commission. With a background in engineering, Heinrich brings a unique perspective on how to create the jobs of the future, and protect the vital missions at New Mexico’s national labs and military installations. He is a strong advocate for middle-class families, a longtime friend and staunch ally of Indian Country, and a champion for New Mexico’s treasured public lands and burgeoning clean energy economy. ",
+		"photo" : "/bigProject1/img/heinrich_official_portrait_small.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+
+
+		]
+
+
+
+	},
+	{
+		"state" : "New Mexico",
+		"name" : "Tom Udall",
+		"bio" : "Tom Udall has earned a reputation as a principled leader who has the integrity to do what is right for New Mexico and our nation. Tom began serving as United States Senator in 2009, after two decades of public service as U.S. Representative and New Mexico's State Attorney General. He was re-elected to the U.S. Senate in 2014, and is now New Mexico's senior senator. Born to Stewart and Lee Udall in Tucson, Arizona, on May 18, 1948, Tom's roots in New Mexico are deep. His grandmother Louise Lee was born in Luna, New Mexico, during territorial days and was part of a ranching family in what is now Catron County. Her family used to drive cattle down the White Mountains to the railroad in Magdalena. Tom earned his undergraduate degree at Prescott College and obtained a Bachelor of Laws Degree from Cambridge University in 1975. He graduated from the University of New Mexico Law School in 1977. Tom then served as a Law Clerk to Chief Justice Oliver Seth of the U.S. Tenth Circuit Court of Appeals and became a federal prosecutor in the U.S. Attorney's criminal division. As Chief Counsel to the New Mexico Department of Health and Environment, he also fought for stronger environmental and health protections.",
+		"photo" : "/bigProject1/img/tomudall.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "New York",
+		"name" : "Kirsten Gillibrand",
+		"bio" : "Born and raised in upstate New York, Senator Gillibrand's home is in Brunswick, New York, with her husband, Jonathan Gillibrand, and their two young sons, twelve-year-old Theodore and seven-year-old Henry. Throughout her time in Congress, Senator Gillibrand has been committed to open and honest government. When she was first elected, she pledged to bring unprecedented transparency and access to her post. She became the first Member of Congress to post her official public schedule, personal financial disclosure, and federal earmark requests online. The New York Times called Gillibrand's commitment to transparency a 'quiet touch of revolution' in Washington, and The Sunlight Foundation, the leading advocacy organization dedicated to making government more open and transparent, praised Senator Gillibrand as a pioneer for her work.",
+		"photo" : "/bigProject1/img/Kirsten_Gillibrand.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "New York",
+		"name" : "Charles E. Schumer",
+		"bio" : "Throughout his time in the Senate, Chuck has made improving New York's economy his top priority, bringing affordable air service to Upstate New York and the Hudson Valley and delivering over $20 billion in aid to New York City following the attacks on September 11, 2001. Chuck was the author of legislation that eliminated barriers that delay low-cost generic medications from entering the marketplace and led the charge to make college tuition tax deductible. He also aggressively championed agricultural measures to preserve vital market support programs for New York’s dairy farmers and crop growers. After New Yorkers re-elected him in 2004, Chuck was awarded two powerful posts by his colleagues. The first, a seat on the Senate Finance Committee, which oversees the nation’s tax, trade, social security and health care legislation. The second honor was the Chairmanship of the Democratic Senatorial Campaign Committee (DSCC). Chuck successfully led the DSCC for two consecutive cycles before stepping down at the end of 2008. Following the elections of 2006, Majority Leader Harry Reid (D-NV) appointed Chuck to serve as Vice Chair of the Democratic Conference, the number three position on the Democratic Leadership team and a position he continues to hold. After New Yorkers re-elected him for a third term in 2010, Chuck took on an expanded role in the Senate as Chairman of the Democratic Policy and Communications Center.  Chuck also serves as the Ranking Member on the Senate Rules Committee, which oversees federal elections, voting rights, campaign finance, and the operation of the Senate complex. In addition, Chuck sits on the Committee on Banking, Housing, and Urban Affairs; the Judiciary Committee, where he is Ranking Member of the Subcommittee on Immigration, Refugees, and Border Security; and the Joint Committee on the Library.",
+		"photo" : "/bigProject1/img/Charles_Schumer.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "North Carolina",
+		"name" : "Richard Burr",
+		"bio" : "First elected to the U.S. House of Representatives in 1994, Richard served five terms in the House and is currently serving North Carolina in his second term in the U.S. Senate. He is a vocal advocate for our men and women in the military and their families, and for the growing population of veterans across North Carolina. In the Senate, Richard serves as Chairman of the U.S. Senate Select Committee on Intelligence where he puts the security of the American people first, while providing rigorous oversight of our intelligence community. He also sits on the Health, Education, Labor, and Pensions Committee and the Finance Committee. The son of a minister, Richard and his family moved to Winston-Salem, North Carolina when he was a young child. After graduating from Wake Forest University, he began his career far from the halls of Congress by spending seventeen years in business with Carswell Distributing, a wholesale commercial products company. He also serves as a Board Member of Brenner Children’s Hospital and on the West Point Board of Visitors. Richard and his wife, Brooke, have two sons.",
+		"photo" : "/bigProject1/img/BurrOfficialPortraitsmall.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Kevin Griffin",
+				"bio" : "As a business leader, a parent and community supporter, I have learned that if what you’re doing isn’t working, you have to try something else.  My father always told me that “Doing the same thing over and over again, and expecting different results is the definition of insanity.”  Year after year, we see how Congress has the lowest approval ratings of all time; yet we continue to send the same politicians to Washington and hope for something different to happen.  It’s time for a change.",
+				"photo" : "/bigProject1/img/KevinGriffin.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ernest Reeves",
+				"bio" : "Nicknamed “ETR,” is a retired United States Army Communications Officer (Signal Corps, U.S. Army Pentagon) entrepreneur, and business owner. Originally from Greenville North Carolina, he is a graduate of J.H. Rose, Sr. High School and the twelfth child of the late Alfred (a Professional Lawn Care Owner) and Lena Reeves (a Stay At Home Mom). As a little boy he became interested in politics partly as a result of his father’s outstanding longtime lawn care business relationship with Dr. John P. East (Professor, Politician) who became U.S. Senator John P. East (R-NC). As U.S. Senator, Dr. East (R-NC) continued his outstanding longtime business relationship with his father and in 1982 he was advised by Senator East’s Special Assistant (by phone) and later in person by Senator East (R-NC) about cadet training opportunities at the United States Military Academy Preparatory School, Fort Monmouth New Jersey and West Point Military Academy, New York. ",
+				"photo" : "/bigProject1/img/200px-Ernest_Reeves.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Chris Rey",
+				"bio" : "Chris currently works for Cumberland HealthNET, a non-profit organization that helps to coordinate care for the uninsured population of Cumberland County.  Chris serves as Executive Director where he manages the day-to-day operations of the organization. He also is an adjunct professor in the criminal justice department at the University of Mount Olive, where he teaches class on constitutional law, criminal law, juvenile justice, and criminal courts.",
+				"photo" : "/bigProject1/img/200px-Chris_Rey.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Deborah Ross",
+				"bio" : "Ross is a former Democratic member of the North Carolina House of Representatives, representing District 38 from 2003 to 2013. She served as a Majority Whip and, at the time of her resignation, State House Deputy Minority Whip. On May 1, 2013, Ross announced her resignation from the House to become general counsel for Triangle Transit. House Speaker Thom Tillis (R) announced on May 29, 2013 that Ross would officially leave on June 1, 2013. Ross earned her bachelor's degree from Brown University in 1985. She received her law degree from the University of North Carolina Law School in 1990. She is an attorney, business ethics consultant and senior lecturing fellow. Ross is married to Steve Wrinn.",
+				"photo" : "/bigProject1/img/DeborahRoss.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Greg Brannon",
+				"bio" : "Greg was the first member in his family to go to college, earning a scholarship to the University of Southern California, where he received his Bachelor of Science Degree in Biological Science in 1982. He earned his Medical Degree from the Chicago Medical School in 1988 and performed his OB/GYN Residency at Los Angeles County/ USC Women’s Hospital in 1992. He was a Clinical Professor at UNC/Wake AHEC from 1993-1994 before opening his OB/GYN practice in Cary, NC in 1993.",
+				"photo" : "/bigProject1/img/200px-Greg_Brannon.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Larry Holmquist",
+				"bio" : "Larry was born September 2, 1954, in Joliet, Illinois. His Mother still lives there, in the house where Larry grew up. He attended public schools, and graduated from Joliet East High School in 1972. He attended Drake University in Des Moines, Iowa, from 1972 until 1976, where he graduated with a Bachelor's Degree in Business Administration. From 1976 until 1980, Larry worked for a commercial bank (new account representative) and a savings and loan association (mortgage loan processor). From 1981 until 1999, Larry worked as an outside sales representative in several industries: publishing, automobile fleet leasing, residential and commercial electronic security, and industrial safety equipment. In 1999, Larry purchased the Greensboro franchise of a direct-mail advertising firm. After two very successful years, he sold the business. He and his wife, Cindy, have been married for 30 years. Although they have no children, they love kids and enjoy being around them. Cindy is employed as the Director of Facilities for a worldwide non-profit organization headquartered in Greensboro, North Carolina. Larry and Cindy have lived in Greensboro since 1989. They are active members of Mt. Pisgah United Methodist Church, and are also active in the Piedmont Emmaus Community, where Larry serves on the Board. He has also done volunteer work for several local charitable groups.",
+				"photo" : "/bigProject1/img/larryholmquist.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Paul Wright",
+				"bio" : "Wright was born in Buncombe County, North Carolina and raised in Haywood County. Growing up, he worked on his uncle's farm and was a construction subcontractor in the Asheville area. A graduate of Clyde A. Erwin High School, where he was All County in football and student body president, Wright earned his undergraduate degree from Wheaton College and a J.D. from Duke Law School. Wright worked as an Assistant District Attorney in the 8th District of Eastern North Carolina and was later appointed District Court Judge for Wayne, Lenoir and Greene counties, where he served for six years. Wright was then elected to serve as a judge in the North Carolina Superior Courts. He retired after 22 years in the North Carolina court system.",
+				"photo" : "/bigProject1/img/200px-Paul_Wright.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Sean Haugh",
+				"bio" : "I am running because I want to stop all war. Not only real war but metaphorical war as well. We have to stop our wars abroad. American taxpayers should not be paying for the deaths of others around the world. I stand against drone warfare in particular. We need to stop exporting arms to other governments and quasi-governmental groups. We must end all government policies that spread violence at home and abroad. We have to stop the culture wars. There is no political solution which starts with half of the population dropping dead. Every person deserves respect and dignity simply for being human. Culture warriors portray their opponents as less than human, causing violence and hatred to spread. We would be well served to start approaching our political and social differences in terms of right and wrong, not good and evil. We must reason with each other, not try to destroy each other. We have to stop the wars against our own people. The militarization of our police must change course. Police violence against the citizens they are sworn to protect and serve is growing at an alarming rate. The massive assaults against our electronic privacy also create a government based on intimidation rather than service. We must reform our relationship with those we charge to tend to our security.",
+				"photo" : "/bigProject1/img/200px-Sean_Haugh.jpg",
+				"party" : "Libertarian"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "North Carolina",
+		"name" : "Thom Tillis",
+		"bio" : "Thom was born into a working-class family with his father and mother and five siblings. During his childhood, his family was frequently forced to relocate depending on where his parents could find work. After graduating from high school, Thom was unable to afford college, so he took a job as a warehouse records clerk earning minimum wage. He knows firsthand how difficult it is to raise a family while attending school at night, struggling to makes ends meet. Through hard work and dedication Thom quickly moved up the corporate ladder, earning his degree at 36 and becoming a top-level executive at PricewaterhouseCoopers and IBM. Thom’s 22-year private sector career in technology and management consulting has provided him with a deep understanding of policy-making and the management of complex organizations. Fueled by a desire to make a difference in his local community, Thom’s involvement in public service began by serving as the PTA president of his daughter’s high school and as a member of the Town of Cornelius Board of Commissioners. In 2006, he was elected to the North Carolina House of Representatives and was selected by his peers to serve as Speaker of the House from 2011 to 2014. As Speaker, Thom played an instrumental role in enacting job-creating policies and reforming North Carolina’s tax and regulatory codes.",
+		"photo" : "/bigProject1/img/tillis-officialheadshot.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "North Dakota",
+		"name" : "Heidi Heitkamp",
+		"bio" : "U.S. Senator Heidi Heitkamp is the first female Senator elected from North Dakota. She took the oath of office on January 3, 2013. Already in her short time in the Senate, Senator Heitkamp has quickly become a proven Senator who works across the aisle to fight for North Dakotans. Senator Heitkamp has personally shown that if Senators work together, it can lead to real solutions. As a former director of the one-of-a-kind Dakota Gasification synfuels plant, Senator Heitkamp has a long record of serving as a champion for North Dakota’s energy jobs and industry. She is continuing those efforts in the Senate, working to responsibly harness North Dakota’s energy resources, promoting the state’s all-of-the-above energy plan which she believes should serve as a model for the entire country, and fighting to lift the 40-year old ban on exporting U.S. crude oil.",
+		"photo" : "/bigProject1/img/heidiheitkamp.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "North Dakota",
+		"name" : "John Hoeven",
+		"bio" : "As a senator, Hoeven has been leading efforts to develop a comprehensive national energy plan similar to North Dakota’s EmPower North Dakota, a comprehensive plan that encourages an all-of-the-above approach to development and includes both traditional and renewable resources. Hoeven believes such an approach will lead to jobs, economic growth and true energy security for America.  The senator’s work includes serving as the leading advocate for approving the Keystone XL pipeline and advancing measures that will eliminate outdated and unnecessary regulations that are prolonging the approval process and discouraging investment and innovation. ",
+		"photo" : "/bigProject1/img/john_hoeven.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Ohio",
+		"name" : "Sherrod Brown",
+		"bio" : "Since January of 2007, U.S. Senator Sherrod Brown – a champion of middle-class families in the Senate – has held more than 200 community roundtables across Ohio’s 88 counties with students, local leaders and business owners, entrepreneurs and educators, workers and families to find ways to rebuild our economy. Described as “Congress’ leading proponent of American manufacturing,” Brown is working with the Obama Administration on the creation of a national manufacturing policy that would invest in manufacturing innovation, strengthen our component supply chain, connect workers with emerging industries, and align our trade policies to promote our national interests. He is also working with Ohio’s universities, entrepreneurs, and community stakeholders to use Ohio’s resources to create new jobs in high-growth industries and make Ohio a national leader in clean energy manufacturing.",
+		"photo" : "/bigProject1/img/sherrodbrown.jpeg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Ohio",
+		"name" : "Rob Portman",
+		"bio" : "Rob was born and raised in Cincinnati, where he lives today with his wife Jane, and their three children, Jed, Will and Sally. He grew up in a small business family, where he learned early on the value of hard work, leadership, and fiscal responsibility. When Rob was young, his dad, Bill Portman, borrowed money to start Portman Equipment Company, where Rob and his brother and sister all worked while growing up. His father, and then his brother, built the family business from a small forklift truck dealership with five employees, with Rob's mom as the bookkeeper, to one that employed more than 300 people. Rob became a lawyer and developed his own private practice, representing Portman Equipment Company and other small businesses. In 1993, Rob was a partner in the Cincinnati law firm of Graydon, Head and Ritchey when he was elected to Congress, where he represented the diverse, seven county Second District in southern Ohio. He was proud to serve the Second District for twelve years, and in seven elections, he never received less than seventy percent of the vote. During his time representing the Second District, Rob earned a reputation as a serious leader who focused on results. Rob was actively involved in crafting and promoting the historic welfare reform efforts as a member of the committee that wrote the legislation, and he was a forceful advocate of the balanced budget that passed in 1997. Rob gained the respect of both Republican and Democratic colleagues through his successful, bipartisan legislative initiatives, including several measures he authored to increase retirement savings, reform the IRS and add over fifty new taxpayer rights, curb unfunded mandates, reduce taxes, and expand drug prevention and land conservation efforts.",
+		"photo" : "/bigProject1/img/Rob_Portman_official_portrait_112th_Congress.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Kelli Prather",
+				"bio" : "I was born and raised in Cincinnati, Ohio. I am a multi-state licensed Occupational Therapist and candidate for the U.S. Senate.",
+				"photo" : "/bigProject1/img/200px-Kelli_Prather.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "P.G. Sittenfeld",
+				"bio" : "P.G. Sittenfeld has been called a 'rising star' by the Cleveland Plain Dealer, Columbus Dispatch, and NBC political analyst Chuck Todd. During his tenure on the Cincinnati City Council, his innovative ideas and cutting-edge programs have been lauded by numerous sources at the state and national levels. In 2013, P.G. was elected to his second term on the City Council—finishing first in the citywide election and winning by the largest percentage and margin of victory in modern Cincinnati history.",
+				"photo" : "/bigProject1/img/sittenfeldpg.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ted Strickland",
+				"bio" : "Strickland was born in Lucasville, Ohio and graduated from Northwest High School in 1959. He proceeded to earn degrees from Asbury College, University of Kentucky and Asbury Theological Seminary. Strickland was the first member of his family to attend college. Strickland's professional career included stints as a counseling psychologist at the Southern Ohio Correctional Facility, a children's home administrator and a psychology professor at Shawnee State University. Strickland was also an associate pastor with Wesley United Methodist Church.",
+				"photo" : "/bigProject1/img/200px-Strickland.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Don Elijah Eckhart",
+				"bio" : "Don Eckhart is a 2016 Republican candidate seeking election to the U.S. Senate from Ohio.",
+				"photo" : "/bigProject1/img/donelijaheckhart.jpg",
+				"party" : "Republican"
+			},
+			{
+				"name" : "Thomas William Connors",
+				"bio" : "Our nation emerged from political oppression by embracing the ideals of government by consent of the people and protection of individual rights. Maintaining these ideals in practice is not guaranteed and requires our constant vigilance. Our current political establishment is not up to the task. It is overly influenced by it's major donors and special interests. We see this played out in issue after issue: amnesty, Common Core, redefinition of marriage and the family, secret trade legislation, government control of healthcare and unsustainable debt. There is a need for an independent perspective.",
+				"photo" : "/bigProject1/img/tomconnors.jpg",
+				"party" : "Independent"
+			},
+			{
+				"name" : "Joseph Demare",
+				"bio" : "Joe is someone who understands that it's time for things to change. For too long, the wealthiest people and corporations have been in control of this country, and they have been putting into place laws and policies that benefit them, while hurting the majority of Americans. It's time that changed. Joe is not a member of the 1%. As a machine operator in an industrial ceramics factory, he has to work hard, but still has to budget every dollar to get through each month. As the father of two young men in their 20's, he's someone who sees the challenges young people face today, trying to find good jobs that pay well. As a husband of thirty years, he understands the economic and social forces that are tearing families apart. ",
+				"photo" : "/bigProject1/img/Joe-DeMare.jpg",
+				"party" : "Green Party"
+			},
+			{
+				"name" : "Scott Rupert",
+				"bio" : "Scott Rupert is a problem solver. He faces a challenge and applies the solution. In 2008, noting the deep division created by party politics and the loss of freedom that results, he decided to engage in the restoration of the political and electoral processes. Scott’s choice to run for Senate 'straight out of the box' as it were, stemmed from his observation that the U.S. Senate is responsible for the people’s loss of liberty.",
+				"photo" : "/bigProject1/img/scottrupert.jpg",
+				"party" : "Independent"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Oklahoma",
+		"name" : "James M. Inhofe",
+		"bio" : "U.S. Senator Jim Inhofe (R-Okla.) is a U.S. Army Veteran.  He is the Chairman of the U.S. Senate Environment and Public Works Committee and Senior Member of the U.S. Senate Armed Services Committee. An avid pilot with over 11,000 flight hours, Inhofe became the only member of Congress to fly an airplane around the world when he recreated Wiley Post's legendary trip around the globe. The conservative publication, Human Events, in editorializing on a recent 'Top 10 Most Outstanding Conservative Senators,' ranked Inhofe number one saying he is an “unabashed conservative” and noted that 'he’s unafraid to speak his mind. In 2013, National Journal magazine ranked Inhofe among the top five most conservative members of the Senate. Jim has been married to his wife, Kay, for 55 years. They have 20 kids and grandkids.",
+		"photo" : "/bigProject1/img/Inhofe.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Oklahoma",
+		"name" : "James Lankford",
+		"bio" : "After serving four years in the U.S. House of Representatives, James was elected to the U.S. Senate on November 4, 2014, to finish the remaining two years of retiring Senator Tom Coburn's term, which will end January 2017. As chairman of the Senate Subcommittee on Regulatory Affairs and Federal Management, Lankford fights unnecessary and burdensome regulation and advocates for a more restrained federal government.Personal faith, local decision-making, and opportunity for every person, regardless of their background, are core values for Senator Lankford. Before his time in Congress, from 1995 to 2009, James served as Director of Student Ministry at the Baptist Convention of Oklahoma and Director of the Falls Creek Youth Camp, the largest youth camp in the United States, with more than 51,000 individuals attending each summer. James lives in Edmond with his wife Cindy. They have been married for over 20 years and have two daughters: Hannah and Jordan. He enjoys spending time with his family, sport shooting, and reading.",
+		"photo" : "/bigProject1/img/Lankford.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+
+
+		]
+
+
+
+	},
+	{
+		"state" : "Oregon",
+		"name" : "Jeff Merkley",
+		"bio" : "Jeff Merkley has dedicated himself to fighting for opportunity for Oregon’s families. The son of a millwright, he grew up in a blue-collar neighborhood where – as Jeff says – his mother “stretched a dollar as far as anyone possibly could.” Today, he still lives in that neighborhood and his kids have gone to the same public schools he attended.  Jeff has lived the American dream and has focused his whole career – both in elected office and running non-profits – on making sure that all Oregonians have the same opportunity to make a better life for themselves and their families.",
+		"photo" : "/bigProject1/img/Merkley_official_photo_small.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Oregon",
+		"name" : "Ron Wyden",
+		"bio" : "Oregonians know Ron as a senator who listens.  Always citing the need to “throw open the doors of government for Oregonians,” he holds an open-to-all town hall meeting in each of Oregon’s 36 counties each year.  Thus far he has held more than 600 meetings.  Wyden’s dedication to hearing all sides of an issue and looking for common sense, non-partisan solutions has won him trust on both sides of the aisle and put him at the heart of nearly every debate.   In 2011, the Almanac of American Politics described Wyden as having 'displayed a genius for coming up with sensible-sounding ideas no one else had thought of and making the counter-intuitive political alliances that prove helpful in passing bills.'  The Washington Post’s Ezra Klein wrote: 'The country has problems.  And Ron Wyden has comprehensive, bipartisan proposals for fixing them.",
+		"photo" : "/bigProject1/img/senronwyden.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Kevin Stine",
+				"bio" : "I was born in Medford, Oregon in 1985 to a single mother. We lived in Oregon until I was 10 and then lived in a small town in Oklahoma where I experienced the country lifestyle. During my Senior year in high school, I decided that I would take the opportunity to serve in the military. The ability to view the world was enticing to me, as well as the ability to break the cycle of poverty that my family had been in. I served in the United States Navy on-board submarines as an Electronics Technician, with a specialty in radio communications. I was stationed on the USS Hyman G Rickover and the USS Pittsburgh. I completed three deployments in my nine years of service. After being honorably discharged, I returned home to Medford with my wonderful wife of nine years, Casey, and my daughter Riley. Wanting to be involved in politics, I contacted the Jackson County Democrats and went to the Medford City Council meetings. When I saw an opportunity to step into public service once again, this time as an elected official, I took it and won election to the Medford City Council. Now, I see an opening in the United States Senate. The current holder of the seat, Ron Wyden, has put corporate interests ahead of Oregon interests. This needs to change, and I need your support in helping this happen.",
+				"photo" : "/bigProject1/img/200px-Kevin_Stine_photo.jpg",
+				"party" : "Democrat"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Pennsylvania",
+		"name" : "Bob Casey",
+		"bio" : "Bob Casey believes that public service is a privilege and that he was elected to fight for Pennsylvania priorities and Pennsylvania values. He is working to foster financial security for American families, improve the lives of our children, increase opportunities for the middle class and protect our national security interests. Banner BREW ActAs a member of the Finance Committee, Senator Casey has made it his top priority to create Pennsylvania jobs and grow the U.S. economy.  Senator Casey has introduced legislation to make it easier for small businesses to plan for capital investments that are vital to job creation and voted to provide billions for tax cuts to encourage businesses to hire workers.  He has continuously fought against unfair trade policies that put American manufacturing at a disadvantage. He has pushed for the U.S. government to take stronger action against China in response to the undervaluing of its currency and other policies that result in American job loss. He also voted for legislation to eliminate tax incentives corporations receive to send U.S. jobs overseas.",
+		"photo" : "/bigProject1/img/bobcasey.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Pennsylvania",
+		"name" : "Pat Toomey",
+		"bio" : "Senator Pat Toomey was elected to the U.S. Senate from Pennsylvania on a platform of limited government, economic and job growth, and restoring fiscal responsibility. The Philadelphia Inquirer wrote that he has emerged as 'a leading voice on money matters.' Since joining the Senate in 2011, he has distinguished himself as a leader on economic, financial services and budgetary issues, striving to restore fiscal discipline to Washington and economic opportunity for all Americans. In 2012, Sen. Toomey helped write and enact the bipartisan JOBS Act, which cuts regulatory burdens on small and medium-sized businesses making it easier for them to raise capital and create jobs.",
+		"photo" : "/bigProject1/img/patttomey.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Joe Sestak",
+				"bio" : "Sestak served in the United States Navy from June 1974 through January 2006. During that time, he served as Director of Anti-Terrorism and became a three-star Admiral. From November 1994 through March 1997 he was Director of Defense Policy for the National Security Council. In 2006 he was elected to represent Pennsylvania's 7th Congressional District, where he served until 2011.",
+				"photo" : "/bigProject1/img/200px-Congressman_Sestak_Official_Congressional_headshot.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Ed Pawlowski",
+				"bio" : "Pawlowski became the 41st Mayor of Allentown in 2006. Prior to serving as mayor, he was Allentown’s Director of Community and Economic Development. He first moved Allentown in the 1990s to become President/CEO of the nonprofit Alliance for Building Communities.",
+				"photo" : "/bigProject1/img/Ed_Pawlowski_2013.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Kathleen McGinty",
+				"bio" : "After graduating from law school, McGinty became a judicial clerk for the Federal Circuit Court of Appeals. She won the Congressional Fellowship of the American Chemical Society, which led her to a position working for then-Senator Al Gore (D). In 1993, President Bill Clinton (D) asked her to serve as his deputy assistant and then as chair of the White House Council on Environmental Quality. She served as an adviser to Al Gore's 2000 presidential campaign before joining Natsource, where she served as vice president for asset management. She remained in this role until 2003, when she was named head of the Pennsylvania Department of Environmental Protection by Gov. Ed Rendell (D).",
+				"photo" : "/bigProject1/img/200px-Kate_McGinty.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "John Fetterman",
+				"bio" : "Pennsylvania born and raised, John was born to teenage parents who were just starting out on their own. At the time, his father worked nights to put himself through college. John grew up in York, and later followed in his father’s footsteps to Albright College, where he played offensive tackle for the Lions. At 23, John joined up with Big Brothers/Big Sisters, and his life has never been the same since.",
+				"photo" : "/bigProject1/img/johnfetterman.jpg",
+				"party" : "Democrat"
+			}
+
+
+
+		]
+
+
+
+	},
+	{
+		"state" : "Rhode Island",
+		"name" : "Jack Reed",
+		"bio" : "Jack was born and raised in Cranston and grew up on Pontiac Avenue.  His father, Joe, was a World War II veteran and Cranston school janitor who worked his way up to become custodial supervisor of the city's school system.  His mother, Mary, was a homemaker who was unable to go to college herself, but made sure her three children studied hard and had the opportunity to pursue a higher education.  The Reed family benefited from the GI Bill – which helped countless veterans further their education and put a roof over their heads – and Jack’s parents instilled in him the importance of serving his country and giving back to his community.",
+		"photo" : "/bigProject1/img/jackreed.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Rhode Island",
+		"name" : "Sheldon Whitehouse",
+		"bio" : "Rhode Islanders know they can count on Sheldon Whitehouse to fight for the middle-class values that matter most to us.  Sheldon believes that every child deserves the opportunities provided by a good education, and that anyone willing to work hard should be able to find a good job.  He believes in the promise of Social Security and Medicare to provide a basic measure of dignity for seniors when they retire. Sheldon has hosted more than 100 community dinners in every corner of the state to hear the concerns of Rhode Islanders.  He is dedicated to helping small businesses grow, making health care affordable for every family, and fighting to break through the barricade of special interests in Washington that are blocking action on climate change.  The Providence Journal described Sheldon as 'a strong-willed and articulate member of the Senate on national issues and an energetic champion of Rhode Island economic and other interests.'",
+		"photo" : "/bigProject1/img/Whitehouse-Official-Portrait.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "South Carolina",
+		"name" : "Lindsey Graham",
+		"bio" : "Lindsey Graham has earned a reputation as a conservative problem-solver and one of the strongest proponents of a robust national defense. A frequent visitor to American troops stationed overseas for on-the-ground assessments, Graham has consistently pushed for outcomes in the War on Terror which protect our long-term national security interests. One leading conservative recently wrote that when it comes to defending America, '[Lindsey] Graham has been right about more things on foreign policy for longer than just about anyone…if anyone has bragging rights on foreign policy, it is Graham.' Graham is also a leader in cutting spending, reforming entitlements, and getting government out of the way so businesses can create jobs. One national conservative organization called him a Taxpayer Hero who puts 'the interests of the taxpayer ahead of politics by consistently voting to cut wasteful spending, reduce the tax burden, and make government more accountable to taxpayers.'",
+		"photo" : "/bigProject1/img/Blog_Lindsey_Graham.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "South Carolina",
+		"name" : "Tom Scott",
+		"bio" : "Senator Scott was sworn in to the U.S. Senate in January 2013. He has launched his Opportunity Agenda, a new way forward including robust initiatives that give our students and workers the greatest chance to succeed. Tim knows that success is created in studio apartments and garages, at kitchen tables, and in classrooms across the nation - not in government conference rooms in Washington. His agenda will empower Americans through economic freedom and high-quality education. Senator Scott will work with anyone else committed to building a better future to develop bold ideas that break away from our past failures. This includes tax reform to increase economic freedom, expanding school choice so every child has a chance at a quality education, and providing alternatives for single parents to work their 40 hours a week by allowing for wider use of comp time. Senator Scott is also working to find ways to help redevelop our poorest areas without pushing current residents out, bring down energy costs that consume a quarter of after-tax income for families making $30,000 or less, help young offenders and those aging out of the foster care system to receive the vital opportunity for education, and ensure our kids who want to attend college can do so without incurring debilitating debt. Tim also continues his work to get our nation’s spending under control, and has opposed measures he believes do not go far enough. In his first hundred days as a Senator, he worked with colleagues to introduce a Balanced Budget Amendment, and was an original cosponsor on a bill to permanently ban the wasteful earmarking process.",
+		"photo" : "/bigProject1/img/Scott_Tim.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "South Dakota",
+		"name" : "Mike Rounds",
+		"bio" : "On January 6th, 2015, Senator Marion Michael “Mike” Rounds was sworn into the United States Senate. Senator Rounds serves on four committees: Senate Armed Services; Banking, Housing and Urban Affairs; Veterans’ Affairs and Environment and Public Works.Rounds previously served as the 31st governor of South Dakota from 2003 – 2011, easily winning reelection in 2006. From 1991 to 2000, he was elected five times to the South Dakota State Senate. In 1995, his colleagues selected him to serve as Senate Majority Leader, a position that he held for six years. During his time in state government, Rounds was committed to growing the economy, keeping taxes low and strengthening South Dakota families.",
+		"photo" : "/bigProject1/img/mikerounds.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "South Dakota",
+		"name" : "John Thune",
+		"bio" : "John Thune grew up in Murdo, South Dakota. His interest in politics was sparked at a young age after making five of six free throws during a freshman high school basketball game. He was later greeted by a spectator who said, 'I noticed you missed one.' That spectator happened to be well-known sports enthusiast and South Dakota U.S. Representative Jim Abdnor. The introduction was the start of a friendship that ignited John’s career in public service. John received his undergraduate degree at Biola University and his Master’s degree in Business Administration from the University of South Dakota. Upon completion of his Master’s Degree in 1984, he married Kimberley Weems, a native of Doland, South Dakota. John’s attraction to public service took him to Washington, D.C. to work for that sports enthusiast and then-U.S. Senator Jim Abdnor. He then served at the Small Business Administration under an appointment from President Ronald Reagan.",
+		"photo" : "/bigProject1/img/thune1.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Tennessee",
+		"name" : "Lamar Alexander",
+		"bio" : "Lamar Alexander was born in Maryville, the son of a kindergarten teacher and an elementary school principal.  He is a seventh-generation Tennessean. He is the only Tennessean ever popularly elected both governor and U.S. Senator.  He has been U.S. Education Secretary and University of Tennessee president. He chaired the National Governors Association and President Reagan's Commission on Americans Outdoors. When first elected to the U.S. Senate in 2002, Alexander had spent more adult years in the private sector than in public life. In 1972 he co-founded a Nashville law firm. In 1987 he and his wife and three others, including Bob Keeshan, television’s Captain Kangaroo, founded Corporate Child Care, Inc.  The company became publicly traded in 1997 (NASDAQ) and later merged with Bright Horizons, Inc., creating the world’s largest provider of worksite daycare. Three times between 2007 and 2012, his colleagues elected Sen. Alexander Chairman of the Senate Republican Conference — the third-ranking Republican position in the United States Senate. In January 2015, Alexander was elected by his fellow committee members to serve as the Chairman of the Health, Education, Labor and Pensions committee where he has said his top priorities are fixing No Child Left Behind, deregulating and reauthorizing the Higher Education Act, and modernizing the Food and Drug Administration so that we can bring more cures and medical devices to market fast and cheaper.",
+		"photo" : "/bigProject1/img/lamaralexander.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Tennessee",
+		"name" : "Bob Corker",
+		"bio" : "Recognizing the important impact U.S. leadership and diplomacy abroad can have on our economy and national security, Bob also is an active leader on the Foreign Relations Committee. Since taking office in 2007, he has visited more than 60 countries to gain a deeper understanding of the strategic relationships between the U.S. and other nations, and in 2015, his colleagues elected him chairman. As the lead Republican on the committee, Corker works with his colleagues to set the committee agenda and help carry out legislative and oversight responsibilities. Bob graduated from the University of Tennessee in 1974 with a degree in Industrial Management. He and his wife of 28 years, Elizabeth, live in Chattanooga. They have two daughters, Emily Corker, Julia and her husband Justin Spickard, and one grandchild.",
+		"photo" : "/bigProject1/img/bobcorker.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Texas",
+		"name" : "John Cornyn",
+		"bio" : "John Cornyn III (born February 2, 1952) is the senior United States Senator from Texas, serving since 2002. He is a member of the Republican Party and the current Senate Majority Whip for the 114th Congress. Cornyn previously served as Chairman of the National Republican Senatorial Committee from 2007 to 2011. Born in Houston, Cornyn is a graduate from Trinity University and St. Mary's University School of Law, receiving his LL.M. from the University of Virginia School of Law. Cornyn was a Judge on Texas' 37th District Court from 1985 to 1991, until he was elected an associate justice of the Texas Supreme Court, where he served 1991 to 1997. In 1998, Cornyn was elected Attorney General of Texas, serving one term until winning a seat in the U.S. Senate in 2002. He was re-elected to a second term in 2008 and successfully ran for a third term in 2014.",
+		"photo" : "/bigProject1/img/220px-John_Cornyn_official_portrait,_2009.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Texas",
+		"name" : "Ted Cruz",
+		"bio" : "Ted’s calling to public service is inspired largely by his first-hand observation of the pursuit of freedom and opportunity in America. Ted’s mother was born in Delaware to an Irish and Italian working-class family; she became the first in her family to go to college, graduated from Rice University with a degree in mathematics, and became a pioneering computer programmer in the 1950s. Ted’s father was born in Cuba, fought in the revolution, and was imprisoned and tortured. He fled to Texas in 1957, penniless and not speaking a word of English. He washed dishes for 50 cents an hour, paid his way through the University of Texas, and started a small business in the oil and gas industry. Today, Ted’s father is a pastor in Dallas. In the Senate, Ted serves on the Committee on Commerce, Science, and Transportation; the Committee on Armed Services; the Committee on the Judiciary; the Joint Economic Committee; and the Committee on Rules and Administration. Before being elected, Ted received national acclaim as the Solicitor General of Texas, the State's chief lawyer before the U.S. Supreme Court. Serving under Attorney General Greg Abbott, Ted was the nation’s youngest Solicitor General, the longest serving Solicitor General in Texas, and the first Hispanic Solicitor General of Texas.",
+		"photo" : "/bigProject1/img/tedcruz.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Utah",
+		"name" : "Orrin Hatch",
+		"bio" : "Orrin Grant Hatch (born March 22, 1934) is an American politician who is the President pro tempore of the United States Senate, serving since January 2015. A member of the Republican Party, he serves as the senior United States Senator for Utah. In office since 1977, Hatch is the most-senior Republican Senator. Hatch has served as either the chairman or ranking minority member of the Senate Judiciary Committee from 1993 to 2005. He previously served as chairman of the Health, Education, Labor and Pensions Committee from 1981 to 1987 and currently serves as Chairman of the Senate Finance Committee as well as serving on the Board of Directors for the United States Holocaust Memorial Museum. After the Republicans won control of the Senate during the 2014 midterms, Hatch became President pro tempore on January 6, 2015 after the 114th United States Congress was sworn in.",
+		"photo" : "/bigProject1/img/220px-Orrin_Hatch,_Official_Photograph.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Utah",
+		"name" : "Mike Lee",
+		"bio" : "Elected in 2010 as Utah's 16th Senator, Mike Lee has spent his career defending the basic liberties of Americans and Utahns as a tireless advocate for our founding constitutional principles. Senator Lee acquired a deep respect for the Constitution early on. His father, Rex Lee, who served as the Solicitor General under President Ronald Reagan, would often discuss varied aspects of judicial and constitutional doctrine around the kitchen table, from Due Process to the uses of Executive Plenary Power. He attended most of his father's arguments before the U.S. Supreme Court, giving him a unique, hands-on experience and understanding of government up close. Lee graduated from Brigham Young University with a Bachelor of Science in Political Science, and served as BYU's Student Body President in his senior year. He graduated from BYU's Law School in 1997 and went on to serve as law clerk to Judge Dee Benson of the U.S. District Court for the District of Utah, and then with future Supreme Court Justice Judge Samuel A. Alito, Jr. on the U.S. Court of Appeals for the Third Circuit. Lee spent several years as an attorney with the law firm Sidley & Austin specializing in appellate and Supreme Court litigation, and then served as an Assistant U.S. Attorney in Salt Lake City arguing cases before the U.S. Court of Appeals for the Tenth Circuit.",
+		"photo" : "/bigProject1/img/220px-Mike_Lee_official_portrait_112th_Congress.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Vermont",
+		"name" : "Patrick Leahy",
+		"bio" : "Patrick Leahy was elected to the United States Senate in 1974 and remains the only Democrat elected to this office from Vermont.  At 34, he was the youngest U.S. Senator ever to be elected from the Green Mountain State. Leahy was born in Montpelier and grew up across from the Statehouse.  A graduate of Saint Michael's College in Colchester (1961), he received his Juris Doctor from Georgetown University Law Center (1964).  He served for eight years as State's Attorney in Chittenden County where he gained a national reputation for his law enforcement activities and was selected as one of three outstanding prosecutors in the United States in 1974. Leahy is the Ranking Member of the Senate Judiciary Committee. He is the senior-most member of the Appropriations Committee and of the Agriculture Committee. Leahy is the Ranking Member of the Appropriations Subcommittee on State Department, Foreign Operations and Related Programs. He ranks first in seniority in the Senate.",
+		"photo" : "/bigProject1/img/Sen_Patrick_Leahy_embed_thumb.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Vermont",
+		"name" : "Bernie Sanders",
+		"bio" : "Bernie Sanders is serving his second term in the U.S. Senate after winning re-election in 2012 with 71 percent of the vote. His previous 16 years in the House of Representatives make him the longest serving independent member of Congress in American history. Born in 1941 in Brooklyn, Sanders attended James Madison High School, Brooklyn College and the University of Chicago. After graduating in 1964, he moved to Vermont. In 1981, he was elected (by 10 votes) to the first of four terms as mayor of Burlington. Sanders lectured at the John F. Kennedy School of Government at Harvard and at Hamilton College in upstate New York before his 1990 election as Vermont's at-large member in Congress. The Almanac of American Politics calls Sanders a 'practical and successful legislator.' Throughout his career he has focused on the shrinking American middle class and the growing income and wealth gaps in the United States. As chairman of the Senate Committee on Veterans’ Affairs, Sanders in 2014 passed legislation reforming the VA health care system. Congressional Quarterly said he was able “to bridge Washington’s toxic partisan divide and cut one of the most significant deals in years.” Today, Sanders remains on the veterans committee and was tapped by Senate leadership to be the ranking member of the Senate Budget Committee. He also serves on the Environment and Public Works Committee, where he has focused on global warming and rebuilding our nation’s crumbling infrastructure. He is a member of the Energy and Natural Resources Committee, where he has championed efforts to transform our energy system from fossil fuels to renewable power sources like solar and wind. He also sits on the Health, Education, Labor and Pensions Committee, where he has fought for greater access to affordable health care and improved education programs from pre-K to college. ",
+		"photo" : "/bigProject1/img/bernie.jpg",
+		"party" : "Independent",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "Virginia",
+		"name" : "Tim Kaine",
+		"bio" : "Tim Kaine has helped people throughout his life as a missionary, civil rights lawyer, teacher and elected official. He is one of 20 people in American history to have served as a Mayor, Governor and United States Senator. Tim was elected to the Senate in 2012 as a can-do optimist skilled in bringing people together across old lines of party, race or region. In the Senate, he serves on the Armed Services, Budget, Foreign Relations and Aging Committees. He is Ranking Member of the Armed Services Readiness Subcommittee and the Foreign Relations Subcommittee on State Department and USAID Management, International Operations and Bilateral International Development.",
+		"photo" : "/bigProject1/img/timkaine.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Virginia",
+		"name" : "Mark R. Warner",
+		"bio" : "Senator Warner was elected to the U.S. Senate in November 2008 and reelected to a second term in November 2014. He serves on the Senate Finance, Banking, Budget, and Intelligence committees. During his time in the Senate, Senator Warner has established himself as a bipartisan leader who has worked with Republicans and Democrats alike to cut red tape, increase government performance and accountability, and promote private sector innovation and job creation. Senator Warner has been recognized as a national leader in fighting for our military men and women and veterans, and in working to find bipartisan, balanced solutions to address our country's debt and deficit.",
+		"photo" : "/bigProject1/img/markwarner.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Washington",
+		"name" : "Maria Cantwell",
+		"bio" : "Maria Cantwell currently serves as a United States Senator for the State of Washington. As a respected leader – both in public service and in the private sector – Maria has always embraced the values she first learned growing up in a strong working-class family. With the help of Pell Grants, Maria was the first member of her family to graduate college. Later, a successful businesswoman in Washington's hi-tech industry, she helped build a company that created hundreds of high-paying jobs from the ground up.Maria was elected to the U.S. Senate in 2000, 2006 and again in 2012, pledging to honor the hard work, aspirations and faith of the people of Washington state. She is working to create affordable opportunities for consumers, businesses and families, to make our nation more secure today, to foster innovation for tomorrow, and to stand with parents as they educate and care for their children.",
+		"photo" : "/bigProject1/img/mariacantwell.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Washington",
+		"name" : "Patty Murray",
+		"bio" : "As Washington state’s senior Senator, Patty Murray has a proven track record spanning more than two decades of fighting for Washington state 2012 - PM Official Photo - Colorfamilies in the United States Senate. Serving as a member of Senate Democratic leadership since 2007, Patty has established herself as a tireless and effective leader on education, transportation, budget issues, port security, healthcare, women, and veterans issues. In addition to being the first female Senator from Washington state, Patty served as the first female Chair of the Senate Veterans’ Affairs Committee during the 112th Congress and served as the first female Chair of the Senate Budget Committee during the 113th Congress. She is currently Ranking Member of the Senate Health, Education, Labor, and Pensions Committee.",
+		"photo" : "/bigProject1/img/patty-murray.jpg",
+		"party" : "Democrat",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Chris Vance",
+				"bio" : "Chris Vance was born in Seattle in 1962, and has lived in Washington all of his life. He graduated from Sumner High School in 1980, and earned a Bachelor of Arts in Political Science from Western Washington University in 1984. Chris and his wife, Ann, met in college and have been married for 27 years. They have two children: Adam, age 24, a recent graduate of the University of Washington, and Natalie, age 19, a sophomore at Washington State University. Ann is a Special Education Paraeducator in the Auburn school district, and has published two books. From 1991 to 1993 Vance served in the State House of Representatives. He was the Assistant Republican Floor Leader, the second ranking Republican on the House Education Committee, and was one of the architects of the state’s landmark 1993 education reform plan.",
+					"photo" : "/bigProject1/img/chrisvance.jpg",
+					"party" : "Republican"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "West Virginia",
+		"name" : "Shelley Moore Capito",
+		"bio" : "Shelley Moore Capito was elected by the people of West Virginia to the United States Senate in 2014. She is the first female U.S. Senator in West Virginia’s history and was elected with the largest margin of victory for a Republican in state history – winning more than 62 percent of the vote and all 55 counties. After serving West Virginia’s Second Congressional District in the U.S. House of Representatives for 14 years, and as a member of the West Virginia House of Delegates for four years prior, Shelley decided to run for Senate with the goal of being an even stronger voice for the Mountain State. She also saw an opportunity to restore order to a Senate stuck in gridlock for far too long.Shelley believes that the challenges of our day demand bipartisan solutions and cooperation across the aisle to advance legislation that benefits West Virginia and the country as a whole.",
+		"photo" : "/bigProject1/img/shellycapito.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+		]
+
+
+
+	},
+	{
+		"state" : "West Virginia",
+		"name" : "Joe Manchin",
+		"bio" : "U.S. Senator Joe Manchin (D-W.Va.) was sworn into the United States Senate on November 15, 2010 to fill the seat left vacant by the late Senator Robert C. Byrd. For Senator Manchin, serving as West Virginia’s Senator is truly an honor and a privilege. Born and raised in the small coal mining town of Farmington, W.Va., Sen. Manchin grew up learning the values that all West Virginians share – family, common sense, fairness and hard work. As a small businessman, he learned firsthand from his grandfather, Papa Joe, who was an Italian immigrant and the town grocer, the importance of serving the public. As a young man, his beloved grandmother, Mama Kay, inspired Senator Manchin’s belief in public service through her unflagging compassion and desire to help those less fortunate. More than anything, it is his family and the values he learned growing up among the hardworking men and women of West Virginia that define who Senator Manchin is and the public servant he strives to be. ",
+		"photo" : "/bigProject1/img/joemanchin.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Wisconsin",
+		"name" : "Tammy Baldwin",
+		"bio" : "Tammy Baldwin was elected to the U.S. Senate on November 6, 2012, winning a hard fought race against former Wisconsin Governor Tommy Thompson. She is Wisconsin’s first woman to serve in the U.S. Senate and is the first openly gay member elected to the Senate. Born in Wisconsin and raised by her grandparents, Tammy graduated from Madison West High School and went on to double-major in political science and mathematics at Smith College. In 1989, she earned her law degree from University of Wisconsin. In 1986, while in law school, she served on the Madison Common Council, filling an aldermanic vacancy.  Tammy was also elected to the first of four terms (1986-1994) on the Dane County Board of Supervisors.  In 1992, Tammy was elected to the Wisconsin State Assembly as a State Representative for the 78th District, serving three terms.",
+		"photo" : "/bigProject1/img/wftw-baldwinphoto.jpg",
+		"party" : "Democrat",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Wisconsin",
+		"name" : "Ron Johnson",
+		"bio" : "Both of Ron’s parents were born and raised on farms. Their work ethic and small-town values were naturally passed along to their own children. As a result, Ron has worked hard all his life. As a boy, he mowed lawns, shoveled snow, delivered papers, and caddied for a few extra bucks. At the age of 15, he obtained his first tax-paying job as a dishwasher in a Walgreens grill. He rose through the ranks as a soda jerk, fry cook, and finally night manager before reaching the age of 16. He gained early acceptance to the University of Minnesota, so he skipped his senior year of High School and worked full time while obtaining his degree in business and accounting. In 1977, after graduating with a BSB-Accounting degree, he married his wife Jane, and started working as an accountant at Jostens. He also continued his education by enrolling in an MBA night program.In July of 1979, Ron and Jane moved to Oshkosh to start a business with Jane’s brother. The company -PACUR- began producing plastic sheet for packaging and printing applications. From operating the equipment, to keeping the company books, and selling its products, Ron has been involved in every function of the business. It is this body of experience and private sector perspective that he now brings to the Senate. Ron came to Washington because the federal government is bankrupting America. He thinks it is important for citizen legislators to ally with those who are seriously facing that reality. Ron’s manufacturing background has taught him to attack the root cause of a problem, not mere symptoms. He believes huge deficits, slow economic activity, high unemployment and woefully inadequate job creation are severe symptoms of the problem – but not the root cause. The ever expanding size, scope and cost of government is.",
+		"photo" : "/bigProject1/img/ronohnson.jpg",
+		"party" : "Republican",
+		"contested" : true,
+		"candidates" : [
+			{
+				"name" : "Russ Feingold",
+				"bio" : "Russ Feingold is known for his independence, his honesty and his work ethic on behalf of Wisconsin families. He has always stood up for the middle class families, students and workers who need economic opportunity, often drawing the ire of wealthy special interests and lobbyists. A lifetime Wisconsin resident, Feingold represented Wisconsin in the U.S. Senate from 1993 to 2011, earning a reputation for doing what’s right, not what’s politically convenient. Whether it was opposing the war in Iraq, serving as an early voice for fiscal responsibility, or being the only Senator to oppose the Patriot Act, Feingold has shown that you can make a difference if you’re willing to speak truth to power. As one of the namesakes of the McCain-Feingold campaign finance law, Feingold established himself as a bipartisan voice and an accomplished legislator who is leading the fight against runaway special interest money in American elections. In Wisconsin, Feingold has been known for truly listening to the people of Wisconsin. Every year as a senator, Feingold visited each of the 72 Wisconsin counties, in an effort to hear what Wisconsin families expect from their government.",
+				"photo" : "/bigProject1/img/200px-Russ_Feingold_official_photo_2.jpg",
+				"party" : "Democrat"
+			},
+			{
+				"name" : "Phillip Anderson",
+				"bio" : "Anderson received his B.A. in geography from the University of Wisconsin-Madison in 1997 and his M.A. in applied theology from Balamand University in 2011. He is a licensed Realtor with First Weber Realty in Fitchburg, Wisconsin and a general manager at Green Cab of Madison in Madison, Wisconsin. Anderson served as a combat medic in the U.S. Army from 1985 to 1988.",
+				"photo" : "/bigProject1/img/200px-Phillip_Anderson.jpg",
+				"party" : "Libertarian"
+			}
+
+		]
+
+
+
+	},
+	{
+		"state" : "Wyoming",
+		"name" : "John Barrasso",
+		"bio" : "Senator John Barrasso has a long and distinguished career in both medicine and public service. In 2012, Barrasso was reelected to the U.S. Senate with over 75% of the vote to represent his home state of Wyoming. He is the fourth-ranking member in the Senate Republican leadership as Chairman of the Senate Republican Policy Committee. He serves on committees that directly impact Wyoming’s economy, energy interests, public lands, national parks and trade. He is also Chairman of the Senate Western Caucus. Senator Barrasso is known by many as Wyoming’s Doctor. During his 24 years as an orthopedic surgeon, Barrasso served as President of the Wyoming Medical Society and was named Wyoming Physician of the Year. Barrasso has three children – Peter, Emma and Hadley. He and his wife Bobbi live in Casper.",
+		"photo" : "/bigProject1/img/220px-John_Barrasso_official_portrait_112th_Congress.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	},
+	{
+		"state" : "Wyoming",
+		"name" : "Mike Enzi",
+		"bio" : "Michael B. Enzi was sworn in as Wyoming's 20th United States Senator on January 7, 1997. Enzi has made a name on Capitol Hill for his unique way of breaking down party lines and working across the aisle. His way of working across party lines is gaining momentum around the nation’s capital. Since 2005, under his 80 percent rule he has had 39 bills go through the Health, Education, Labor and Pensions Committee and be signed into law by the President. The average committee gets 3 bills passed every 2 years. Enzi believes that people can agree on 80 percent of the issues 80 percent of the time and if they leave the other 20 percent out they can get a lot done. With that mentality he has turned one of the most contentious Senate committees into one of the most productive. At the start of the 109th Congress in 2005 Enzi became the ninth Wyoming senator to ascend to the rank of chairman on one of the 16 standing Senate committees. Enzi has been a member of the Senate Health, Education, Labor and Pensions Committee, since his arrival in the senate in 1997. Having served both as Chairman and Ranking Member, Enzi led the Senate in its efforts to help ensure that everyone, no matter their age, can receive a quality education. Enzi worked to help provide Americans access to affordable, quality health care while protecting workers and providing them training to get the best jobs. Enzi also worked to oversee the biggest revision to pension laws in 30 years to strengthen funding rules to secure the retirements of millions of Americans. Enzi’s committee also led the way to making the first revision to mine safety laws in 28 years by promoting the use of new technologies to improve mine safety and save lives. During his time as chairman of the HELP Committee 37 bills were reported out of the committee, 23 bills passed the Senate, 352 nominations were reported favorably and 15 laws came through the committee that were signed by President Bush. Enzi is currently the Republican Leader of the HELP Subcommittee on Children and Families.",
+		"photo" : "/bigProject1/img/220px-Mike_Enzi,_official_portrait,_111th_Congress.jpg",
+		"party" : "Republican",
+		"contested" : false,
+		"candidates" : [
+			
+
+		]
+
+
+
+	}
+]
+
+

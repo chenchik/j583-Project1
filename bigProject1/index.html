@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Neuton:400,800,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+
+	<script type="text/javascript" src="js/angular.min.js"></script>
+	<!--script type="text/javascript" src="js/angular.js"></script-->
+	<script type="text/javascript" src="js/app.js"></script>
+	<script type="text/javascript" src="js/members.js"></script>
+	
+	<script type="text/javascript" src="js/jquery-2.2.0.min.js"></script>
+	
+	
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+	
+	
+	<link rel="stylesheet" href="css/style.css">
+	
+	
+	
+	
+	
+	
+	
+</head>
+<body  ng-controller="BaseController as base">
+	<div ng-controller="membersController as membersCtrl">
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+		  <div class="container-fluid">
+			<div class="navbar-header">
+			  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span> 
+			  </button>
+			  
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+			  <ul class="nav navbar-nav">
+				
+				<li>
+					<a href="#" ng-click="base.sortBy('name')">Sort by Name</a>	
+				</li>
+				<li>
+					<a href="#" ng-click="base.sortBy('state')">Sort by State</a>
+				</li> 
+				
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Parties
+					<span class="caret"></span></a>
+					<ul class="dropdown-menu" id="partyUl">
+					
+						<li>
+							<a href="#" ng-click="membersCtrl.toggleParty('Republican')" id="repubIcon">Republican</a>
+						</li> 
+						<li>
+							<a href="#" ng-click="membersCtrl.toggleParty('Democrat')" class="iconContainer" id="democIcon">Democrat</a>
+						</li>
+						<li>
+							<a href="#" ng-click="membersCtrl.toggleParty('Independent')" class="iconContainer" id="indepIcon">Independent</a>
+						</li>
+					
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">States
+					<span class="caret"></span></a>
+					<ul class="dropdown-menu" id="statesDiv">
+						<li>
+							<a href="#" class="states" ng-repeat="member in membersCtrl.members" ng-show="membersCtrl.checkState(member)" ng-class="membersCtrl.setStateClass(member)" ng-click="base.sortBy('state')">
+						{{member.state}}
+							</a>
+						</li>
+					  
+					</ul>
+				</li>
+				<!--<li>
+					<div id="statesDiv">
+					
+					<a href="#" class="states col-xs-4 col-sm-3 col-md-2" ng-repeat="member in membersCtrl.members" ng-show="membersCtrl.checkState(member)" ng-class="membersCtrl.setStateClass(member)" ng-click="base.sortBy('state')">
+						{{member.state}}
+					</a>
+							
+						
+						
+					
+				</div>
+				</li>-->
+			  </ul>
+			  
+			  <ul class="nav navbar-nav navbar-right">
+				<form class="navbar-form" role="search">
+				<div class="input-group">
+					<input type="text" class="form-control" placeholder="Search For Senators" name="srch-term" id="srch-term" ng-model="searchText">
+					
+				</div>
+				</form>
+			  </ul>
+			  
+			  
+			  
+			  
+			</div>
+		  </div>
+		</nav>
+		
+		
+		
+	
+		<!--<div id="sortDiv" class="col-md-12">-->
+				<!--<form>-->
+					<!--<a href="#" class="col-md-1 col-sm-1 col-xs-1 topButton" type="button" ng-click="base.sortBy('name')">Sort by Name</a>
+					
+					<a href="#" class="col-md-1 col-sm-1 col-xs-1 topButton" type="button" ng-click="base.sortBy('state')">Sort by State</a>-->
+					
+					
+					<!--<button type="button" ng-click="base.sortBy('party')">Sort by Party</button>-->
+					
+					<!--<div class="col-md-1 col-sm-1 col-xs-1">
+						<a href="#" ng-click="membersCtrl.toggleParty('Republican')" class="iconContainer"><img class="politicsIcon" id="repubIcon" src="img/republican.png"/></a>
+					</div>
+					<div class="col-md-1 col-sm-1 col-xs-1">
+						<a href="#" ng-click="membersCtrl.toggleParty('Democrat')" class="iconContainer" ><img class="politicsIcon" id="democIcon" src="img/democrat.png"/></a>
+					</div>-->
+					<!--<button type="button" ng-click="base.newSort('last')">Sort by Last</button>
+					<button type="button" ng-click="base.newSort('position')">Sort by Position</button>
+					<button type="button" ng-click="base.newSort('games')">Sort by Games</button>-->
+					<!--Search:<input type="text" name="search" id="searcher" value="">-->
+					<!--<input ng-model="searchText">-->
+					<!--<input type="submit">-->
+					
+				<!--</form>-->
+		<!--</div>-->
+		
+		
+		
+		<div id="topImageContainerThing">
+			<div class="container">
+		
+			
+				<div class="header" >
+					<img id="senateLogo" src="img/senateLogo.jpg"/><br>
+					<img id="questionMark" src="img/questionMarkBlue.png"/>
+					<p id="description" style="display:none;">
+						This is a website showcasing all the current Senators of the United States. If a senator's seat is up for election, clicking them will pull down the candidates. You can search for anything you want by using the search bar in the top right corner. If you would like to reorder the candidates, you can do so using the buttons on the top left.
+
+						Clicking a "Sort by" button will sort the senators by your specified guideline. "Parties" will make only the selected parties show up. "State" will scroll down to the first candidate of the state you select. 
+					</p>
+				</div>
+				
+				<!--<div id="statesDiv">
+					
+					<a href="#" class="states col-xs-4 col-sm-3 col-md-2" ng-repeat="member in membersCtrl.members" ng-show="membersCtrl.checkState(member)" ng-class="membersCtrl.setStateClass(member)" ng-click="base.sortBy('state')">
+						{{member.state}}
+					</a>
+							
+						
+						
+					
+				</div>-->
+				
+			</div>
+		</div>
+		<div class="container" id="superOuterPoliticsContainer">
+			
+		
+			
+			
+			
+		
+		
+			<div  id="politicsContainer">
+				<div class="congressContainer col-md-12 col-sm-12" ng-repeat="member in membersCtrl.members | filter: searchText | orderBy: base.current: base.reverse" ng-show="membersCtrl.currentParty(member)" ng-class="[membersCtrl.setStateClassForMemebers(member) , membersCtrl.contestedClass(member)]">
+					<div class="currentCongressContainer">
+					
+					
+				
+						<div class="basicInfoContainer">
+							<div class="imgContainer">
+								<img class="congressPic"  ng-src="{{member.photo}}"/>
+							</div>
+							<div ng-class="membersCtrl.setPartyBorder(member)" class="labelsContainer">
+								<p class="names senateBasicInfo">
+									{{member.name}}
+								</p>
+								<p class="senateBasicInfo theirState">
+									{{member.state}}
+								</p>
+								<p class="senateBasicInfo theirParty">
+									{{member.party}}
+								</p>
+								<p>
+									<p class="contested senateBasicInfo" href="#">
+										<img ng-show="{{member.contested}}" ng-src="{{membersCtrl.getCorrectCheckedBox(member)}}"/>
+										<img ng-show="{{!member.contested}}" ng-src="{{membersCtrl.getCorrectUncheckedBox(member)}}">
+										{{membersCtrl.isContested(member)}}
+										<br>
+										<img ng-show="{{member.running}}" ng-src="{{membersCtrl.getCorrectCheckedBox(member)}}">
+										<img ng-show="{{!member.running}}" ng-src="{{membersCtrl.getCorrectUncheckedBox(member)}}">
+										{{membersCtrl.isRunning(member)}}
+									</p>
+									<!--<a ng-show="{{member.contested}}" class="contestedLink senateBasicInfo" href="#">Candidates</a>-->
+									
+								</p>
+							</div>
+						</div>
+						<div class="bioContainer">
+							{{member.bio}}
+						</div>
+						
+						
+					
+					</div>
+					<div class="contestants" style="display:none;">
+						<div ng-hide="membersCtrl.checkIfCandidates(member)"><p>There are no other candidates declared.</p></div>
+						<div ng-repeat="candidate in member.candidates" class="candidateFullBox col-md-2 col-sm-4 col-xs-6">
+							<div class=" contestantBoxes">
+								
+								<p class="candidatePhotoBox" ng-class="membersCtrl.setPartyBorder(candidate)">
+									<img class="candidatePhoto" ng-src="{{candidate.photo}}"/>
+								</p>						
+								<p class="names">
+									{{candidate.name}}
+								</p>
+								<p>
+									{{candidate.party}}
+								</p>
+								<!--<a href="#" class="bioButton">
+									bio
+								</a>-->
+							</div>		
+							
+							
+							<div class="contestantsBio" style="display:none;">
+								<p class="contestantsBioWords">
+									{{candidate.bio}}
+								</p>
+							</div>
+												
+						</div>
+						
+					</div>
+				</div>
+
+				
+			</div>
+			<div id="credits">
+				<p>Sources</p>
+				<a href="http://www.congress.gov">http://www.congress.gov</a><br>
+				<a href="http://bollotpedia.org">http://bollotpedia.org</a>
+				<a></a>
+				<a></a>
+			</div>
+		</div>
+		<a href="#!" id="arrowTag"><img id="arrow" src="img/upArrowGrey.png"/></a>
+				
+	</div>
+</body>
+
+<script type="text/javascript" src="js/jQueryStuff.js"></script>
+</html>
